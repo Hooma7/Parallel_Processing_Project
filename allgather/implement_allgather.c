@@ -89,7 +89,7 @@ int main(int argc, char* argv[]){
     MPI_Comm_size(MPI_COMM_WORLD, &num_procs);
 
     srand(time(NULL)*(rank+1));
-    for(int i=0; i<26; i++){
+    for(int i=0; i<21; i++){
         int size = 1 << i;
         double* sendbuf = (double*)malloc(size*sizeof(double));
         double* recvbuf = (double*)malloc(size*num_procs*sizeof(double));
@@ -120,7 +120,9 @@ int main(int argc, char* argv[]){
 
         if(rank == 0)
             printf("Message size: 2^%d\t\tRecursive Doubling Time: %E\t\tBruck's Time: %E\t\tRing Time: %E\n",i,recursive_time,brucks_time,ring_time);
-        
+	
+	free(sendbuf);
+    	free(recvbuf);        
     }
 
     MPI_Finalize();
