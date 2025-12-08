@@ -1,0 +1,24 @@
+To request GPUs, add --gpus-per-node X or --gpus X, where X is the desired number of GPUs.
+Job 165917 running on easley[049-050]
+Message size: 2^0		Recursive Doubling Time: 9.906000E-06		Bruck's Time: 4.780000E-07		Ring Time: 5.430000E-07
+Message size: 2^1		Recursive Doubling Time: 6.100000E-07		Bruck's Time: 5.530000E-07		Ring Time: 4.050000E-07
+Message size: 2^2		Recursive Doubling Time: 5.970000E-07		Bruck's Time: 1.302000E-06		Ring Time: 1.497000E-06
+Message size: 2^3		Recursive Doubling Time: 6.110000E-07		Bruck's Time: 7.050000E-07		Ring Time: 1.303000E-06
+Message size: 2^4		Recursive Doubling Time: 1.162800E-05		Bruck's Time: 2.311000E-06		Ring Time: 2.284000E-06
+Message size: 2^5		Recursive Doubling Time: 3.736000E-06		Bruck's Time: 1.801000E-06		Ring Time: 1.788000E-06
+Message size: 2^6		Recursive Doubling Time: 2.173000E-06		Bruck's Time: 2.165000E-06		Ring Time: 7.428000E-06
+Message size: 2^7		Recursive Doubling Time: 7.889000E-06		Bruck's Time: 6.371000E-06		Ring Time: 5.252000E-06
+Message size: 2^8		Recursive Doubling Time: 6.871000E-06		Bruck's Time: 6.086000E-06		Ring Time: 3.836000E-06
+Message size: 2^9		Recursive Doubling Time: 8.089000E-06		Bruck's Time: 8.199000E-06		Ring Time: 8.450000E-06
+Message size: 2^10		Recursive Doubling Time: 1.041600E-05		Bruck's Time: 1.115200E-05		Ring Time: 1.058000E-05
+Message size: 2^11		Recursive Doubling Time: 4.012300E-05		Bruck's Time: 1.651700E-05		Ring Time: 1.815700E-05
+Message size: 2^12		Recursive Doubling Time: 2.903600E-05		Bruck's Time: 2.955300E-05		Ring Time: 6.137500E-05
+Message size: 2^13		Recursive Doubling Time: 1.062330E-04		Bruck's Time: 6.252900E-05		Ring Time: 8.652200E-05
+Message size: 2^14		Recursive Doubling Time: 2.513870E-04		Bruck's Time: 1.050470E-04		Ring Time: 1.659180E-04
+Message size: 2^15		Recursive Doubling Time: 3.315420E-04		Bruck's Time: 4.688500E-05		Ring Time: 1.990110E-04
+Message size: 2^16		Recursive Doubling Time: 5.128560E-04		Bruck's Time: 9.380600E-05		Ring Time: 3.831440E-04
+Message size: 2^17		Recursive Doubling Time: 9.816820E-04		Bruck's Time: 2.001730E-04		Ring Time: 7.714440E-04
+Message size: 2^18		Recursive Doubling Time: 1.640812E-03		Bruck's Time: 4.448840E-04		Ring Time: 8.408230E-04
+Message size: 2^19		Recursive Doubling Time: 2.048960E-03		Bruck's Time: 7.294390E-04		Ring Time: 1.437972E-03
+Message size: 2^20		Recursive Doubling Time: 3.348965E-03		Bruck's Time: 1.350132E-03		Ring Time: 2.849601E-03
+Message size: 2^21		Recursive Doubling Time: 6.035921E-03		Bruck's Time: 2.858723E-03		Ring Time: 5.718367E-03
