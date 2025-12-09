@@ -30,7 +30,7 @@ for i in range(6):
         t_recursive_doubling = np.log2(procs)*rend_alpha + (procs-1)/procs * n * rend_beta_intra
         t_ring = (procs-1)*rend_alpha + (procs-1)/procs * n * rend_beta_intra
         
-        print(f"For message size: 2^{j} \tRecursive Doubling and Brucks Algorithm: {t_recursive_doubling}\t\tRing Algorithm: {t_ring}")
+        print(f"For message size: 2^{j+11} \tRecursive Doubling and Brucks Algorithm: {t_recursive_doubling}\t\tRing Algorithm: {t_ring}")
         
         
         
@@ -51,4 +51,4 @@ for i in range(6):
         t_recursive_doubling = np.log2(procs)*rend_alpha + (procs-1)/procs * n * (ppn/rend_R_N)
         t_ring = (procs-1)*rend_alpha + (procs-1)/procs * n * (ppn/rend_R_N)
         
-        print(f"For message size: 2^{j} \tRecursive Doubling and Brucks Algorithm: {t_recursive_doubling}\t\tRing Algorithm: {t_ring}")
+        print(f"For message size: 2^{j+11} \tRecursive Doubling and Brucks Algorithm: {t_recursive_doubling}\t\tRing Algorithm: {t_ring}")

@@ -13,16 +13,16 @@ For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 8.85167147947135
 For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 1.0455322468639013e-06		Ring Algorithm: 1.0455322468639013e-06
 For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 1.366262444697433e-06		Ring Algorithm: 1.366262444697433e-06
 For message size: 2^10 	Recursive Doubling and Brucks Algorithm: 2.007722840364497e-06		Ring Algorithm: 2.007722840364497e-06
-For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 8.892870967741933e-06		Ring Algorithm: 8.892870967741933e-06
-For message size: 2^1 	Recursive Doubling and Brucks Algorithm: 9.072741935483869e-06		Ring Algorithm: 9.072741935483869e-06
-For message size: 2^2 	Recursive Doubling and Brucks Algorithm: 9.43248387096774e-06		Ring Algorithm: 9.43248387096774e-06
-For message size: 2^3 	Recursive Doubling and Brucks Algorithm: 1.0151967741935483e-05		Ring Algorithm: 1.0151967741935483e-05
-For message size: 2^4 	Recursive Doubling and Brucks Algorithm: 1.1590935483870968e-05		Ring Algorithm: 1.1590935483870968e-05
-For message size: 2^5 	Recursive Doubling and Brucks Algorithm: 1.4468870967741936e-05		Ring Algorithm: 1.4468870967741936e-05
-For message size: 2^6 	Recursive Doubling and Brucks Algorithm: 2.0224741935483877e-05		Ring Algorithm: 2.0224741935483877e-05
-For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 3.173648387096776e-05		Ring Algorithm: 3.173648387096776e-05
-For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 5.475996774193551e-05		Ring Algorithm: 5.475996774193551e-05
-For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 0.00010080693548387103		Ring Algorithm: 0.00010080693548387103
+For message size: 2^11 	Recursive Doubling and Brucks Algorithm: 8.892870967741933e-06		Ring Algorithm: 8.892870967741933e-06
+For message size: 2^12 	Recursive Doubling and Brucks Algorithm: 9.072741935483869e-06		Ring Algorithm: 9.072741935483869e-06
+For message size: 2^13 	Recursive Doubling and Brucks Algorithm: 9.43248387096774e-06		Ring Algorithm: 9.43248387096774e-06
+For message size: 2^14 	Recursive Doubling and Brucks Algorithm: 1.0151967741935483e-05		Ring Algorithm: 1.0151967741935483e-05
+For message size: 2^15 	Recursive Doubling and Brucks Algorithm: 1.1590935483870968e-05		Ring Algorithm: 1.1590935483870968e-05
+For message size: 2^16 	Recursive Doubling and Brucks Algorithm: 1.4468870967741936e-05		Ring Algorithm: 1.4468870967741936e-05
+For message size: 2^17 	Recursive Doubling and Brucks Algorithm: 2.0224741935483877e-05		Ring Algorithm: 2.0224741935483877e-05
+For message size: 2^18 	Recursive Doubling and Brucks Algorithm: 3.173648387096776e-05		Ring Algorithm: 3.173648387096776e-05
+For message size: 2^19 	Recursive Doubling and Brucks Algorithm: 5.475996774193551e-05		Ring Algorithm: 5.475996774193551e-05
+For message size: 2^20 	Recursive Doubling and Brucks Algorithm: 0.00010080693548387103		Ring Algorithm: 0.00010080693548387103
 
 Performance for Process Count: 4
 For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 1.4514833765636698e-06		Ring Algorithm: 2.1762854255940392e-06
@@ -36,16 +36,16 @@ For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 1.69015174643588
 For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 1.9306993948110367e-06		Ring Algorithm: 2.655501443841406e-06
 For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 2.4117946915613345e-06		Ring Algorithm: 3.136596740591704e-06
 For message size: 2^10 	Recursive Doubling and Brucks Algorithm: 3.37398528506193e-06		Ring Algorithm: 4.0987873340923e-06
-For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 1.76958064516129e-05		Ring Algorithm: 2.64088064516129e-05
-For message size: 2^1 	Recursive Doubling and Brucks Algorithm: 1.7965612903225803e-05		Ring Algorithm: 2.6678612903225803e-05
-For message size: 2^2 	Recursive Doubling and Brucks Algorithm: 1.8505225806451608e-05		Ring Algorithm: 2.7218225806451607e-05
-For message size: 2^3 	Recursive Doubling and Brucks Algorithm: 1.9584451612903223e-05		Ring Algorithm: 2.8297451612903223e-05
-For message size: 2^4 	Recursive Doubling and Brucks Algorithm: 2.174290322580645e-05		Ring Algorithm: 3.045590322580645e-05
-For message size: 2^5 	Recursive Doubling and Brucks Algorithm: 2.6059806451612903e-05		Ring Algorithm: 3.4772806451612905e-05
-For message size: 2^6 	Recursive Doubling and Brucks Algorithm: 3.469361290322581e-05		Ring Algorithm: 4.340661290322581e-05
-For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 5.1961225806451634e-05		Ring Algorithm: 6.067422580645163e-05
-For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 8.649645161290326e-05		Ring Algorithm: 9.520945161290326e-05
-For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 0.00015556690322580653		Ring Algorithm: 0.00016427990322580654
+For message size: 2^11 	Recursive Doubling and Brucks Algorithm: 1.76958064516129e-05		Ring Algorithm: 2.64088064516129e-05
+For message size: 2^12 	Recursive Doubling and Brucks Algorithm: 1.7965612903225803e-05		Ring Algorithm: 2.6678612903225803e-05
+For message size: 2^13 	Recursive Doubling and Brucks Algorithm: 1.8505225806451608e-05		Ring Algorithm: 2.7218225806451607e-05
+For message size: 2^14 	Recursive Doubling and Brucks Algorithm: 1.9584451612903223e-05		Ring Algorithm: 2.8297451612903223e-05
+For message size: 2^15 	Recursive Doubling and Brucks Algorithm: 2.174290322580645e-05		Ring Algorithm: 3.045590322580645e-05
+For message size: 2^16 	Recursive Doubling and Brucks Algorithm: 2.6059806451612903e-05		Ring Algorithm: 3.4772806451612905e-05
+For message size: 2^17 	Recursive Doubling and Brucks Algorithm: 3.469361290322581e-05		Ring Algorithm: 4.340661290322581e-05
+For message size: 2^18 	Recursive Doubling and Brucks Algorithm: 5.1961225806451634e-05		Ring Algorithm: 6.067422580645163e-05
+For message size: 2^19 	Recursive Doubling and Brucks Algorithm: 8.649645161290326e-05		Ring Algorithm: 9.520945161290326e-05
+For message size: 2^20 	Recursive Doubling and Brucks Algorithm: 0.00015556690322580653		Ring Algorithm: 0.00016427990322580654
 
 Performance for Process Count: 8
 For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 2.176598638677861e-06		Ring Algorithm: 5.07580683479934e-06
@@ -59,16 +59,16 @@ For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 2.45504507019544
 For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 2.7356839932997893e-06		Ring Algorithm: 5.634892189421267e-06
 For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 3.2969618395084698e-06		Ring Algorithm: 6.196170035629948e-06
 For message size: 2^10 	Recursive Doubling and Brucks Algorithm: 4.419517531925831e-06		Ring Algorithm: 7.318725728047309e-06
-For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 2.6453774193548383e-05		Ring Algorithm: 6.130577419354838e-05
-For message size: 2^1 	Recursive Doubling and Brucks Algorithm: 2.676854838709677e-05		Ring Algorithm: 6.162054838709676e-05
-For message size: 2^2 	Recursive Doubling and Brucks Algorithm: 2.7398096774193545e-05		Ring Algorithm: 6.225009677419354e-05
-For message size: 2^3 	Recursive Doubling and Brucks Algorithm: 2.8657193548387092e-05		Ring Algorithm: 6.350919354838708e-05
-For message size: 2^4 	Recursive Doubling and Brucks Algorithm: 3.117538709677419e-05		Ring Algorithm: 6.602738709677419e-05
-For message size: 2^5 	Recursive Doubling and Brucks Algorithm: 3.621177419354839e-05		Ring Algorithm: 7.106377419354837e-05
-For message size: 2^6 	Recursive Doubling and Brucks Algorithm: 4.628454838709678e-05		Ring Algorithm: 8.113654838709678e-05
-For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 6.643009677419357e-05		Ring Algorithm: 0.00010128209677419357
-For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 0.00010672119354838714		Ring Algorithm: 0.00014157319354838715
-For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 0.0001873033870967743		Ring Algorithm: 0.0002221553870967743
+For message size: 2^11 	Recursive Doubling and Brucks Algorithm: 2.6453774193548383e-05		Ring Algorithm: 6.130577419354838e-05
+For message size: 2^12 	Recursive Doubling and Brucks Algorithm: 2.676854838709677e-05		Ring Algorithm: 6.162054838709676e-05
+For message size: 2^13 	Recursive Doubling and Brucks Algorithm: 2.7398096774193545e-05		Ring Algorithm: 6.225009677419354e-05
+For message size: 2^14 	Recursive Doubling and Brucks Algorithm: 2.8657193548387092e-05		Ring Algorithm: 6.350919354838708e-05
+For message size: 2^15 	Recursive Doubling and Brucks Algorithm: 3.117538709677419e-05		Ring Algorithm: 6.602738709677419e-05
+For message size: 2^16 	Recursive Doubling and Brucks Algorithm: 3.621177419354839e-05		Ring Algorithm: 7.106377419354837e-05
+For message size: 2^17 	Recursive Doubling and Brucks Algorithm: 4.628454838709678e-05		Ring Algorithm: 8.113654838709678e-05
+For message size: 2^18 	Recursive Doubling and Brucks Algorithm: 6.643009677419357e-05		Ring Algorithm: 0.00010128209677419357
+For message size: 2^19 	Recursive Doubling and Brucks Algorithm: 0.00010672119354838714		Ring Algorithm: 0.00014157319354838715
+For message size: 2^20 	Recursive Doubling and Brucks Algorithm: 0.0001873033870967743		Ring Algorithm: 0.0002221553870967743
 
 Performance for Process Count: 16
 For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 2.9015572942501413e-06		Ring Algorithm: 1.0874379833584207e-05
@@ -82,16 +82,16 @@ For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 3.19989275659041
 For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 3.50057731705935e-06		Ring Algorithm: 1.1473399856393415e-05
 For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 4.101946437997222e-06		Ring Algorithm: 1.2074768977331288e-05
 For message size: 2^10 	Recursive Doubling and Brucks Algorithm: 5.304684679872967e-06		Ring Algorithm: 1.3277507219207031e-05
-For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 3.518925806451612e-05		Ring Algorithm: 0.00013103225806451607
-For message size: 2^1 	Recursive Doubling and Brucks Algorithm: 3.552651612903225e-05		Ring Algorithm: 0.00013136951612903222
-For message size: 2^2 	Recursive Doubling and Brucks Algorithm: 3.620103225806451e-05		Ring Algorithm: 0.00013204403225806446
-For message size: 2^3 	Recursive Doubling and Brucks Algorithm: 3.755006451612902e-05		Ring Algorithm: 0.000133393064516129
-For message size: 2^4 	Recursive Doubling and Brucks Algorithm: 4.024812903225806e-05		Ring Algorithm: 0.00013609112903225802
-For message size: 2^5 	Recursive Doubling and Brucks Algorithm: 4.5644258064516126e-05		Ring Algorithm: 0.00014148725806451608
-For message size: 2^6 	Recursive Doubling and Brucks Algorithm: 5.643651612903227e-05		Ring Algorithm: 0.00015227951612903224
-For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 7.802103225806454e-05		Ring Algorithm: 0.0001738640322580645
-For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 0.00012119006451612909		Ring Algorithm: 0.00021703306451612903
-For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 0.00020752812903225817		Ring Algorithm: 0.00030337112903225816
+For message size: 2^11 	Recursive Doubling and Brucks Algorithm: 3.518925806451612e-05		Ring Algorithm: 0.00013103225806451607
+For message size: 2^12 	Recursive Doubling and Brucks Algorithm: 3.552651612903225e-05		Ring Algorithm: 0.00013136951612903222
+For message size: 2^13 	Recursive Doubling and Brucks Algorithm: 3.620103225806451e-05		Ring Algorithm: 0.00013204403225806446
+For message size: 2^14 	Recursive Doubling and Brucks Algorithm: 3.755006451612902e-05		Ring Algorithm: 0.000133393064516129
+For message size: 2^15 	Recursive Doubling and Brucks Algorithm: 4.024812903225806e-05		Ring Algorithm: 0.00013609112903225802
+For message size: 2^16 	Recursive Doubling and Brucks Algorithm: 4.5644258064516126e-05		Ring Algorithm: 0.00014148725806451608
+For message size: 2^17 	Recursive Doubling and Brucks Algorithm: 5.643651612903227e-05		Ring Algorithm: 0.00015227951612903224
+For message size: 2^18 	Recursive Doubling and Brucks Algorithm: 7.802103225806454e-05		Ring Algorithm: 0.0001738640322580645
+For message size: 2^19 	Recursive Doubling and Brucks Algorithm: 0.00012119006451612909		Ring Algorithm: 0.00021703306451612903
+For message size: 2^20 	Recursive Doubling and Brucks Algorithm: 0.00020752812903225817		Ring Algorithm: 0.00030337112903225816
 
 Performance for Process Count: 32
 For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 3.6264376465514664e-06		Ring Algorithm: 2.2471290921341073e-05
@@ -105,16 +105,16 @@ For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 3.93471762430308
 For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 4.245425003454316e-06		Ring Algorithm: 2.309027827824392e-05
 For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 4.866839761756783e-06		Ring Algorithm: 2.3711693036546388e-05
 For message size: 2^10 	Recursive Doubling and Brucks Algorithm: 6.1096692783617185e-06		Ring Algorithm: 2.4954522553151325e-05
-For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 4.3913499999999985e-05		Ring Algorithm: 0.00027045149999999996
-For message size: 2^1 	Recursive Doubling and Brucks Algorithm: 4.426199999999999e-05		Ring Algorithm: 0.00027079999999999997
-For message size: 2^2 	Recursive Doubling and Brucks Algorithm: 4.495899999999999e-05		Ring Algorithm: 0.00027149699999999994
-For message size: 2^3 	Recursive Doubling and Brucks Algorithm: 4.635299999999999e-05		Ring Algorithm: 0.00027289099999999993
-For message size: 2^4 	Recursive Doubling and Brucks Algorithm: 4.914099999999999e-05		Ring Algorithm: 0.000275679
-For message size: 2^5 	Recursive Doubling and Brucks Algorithm: 5.4717e-05		Ring Algorithm: 0.00028125499999999995
-For message size: 2^6 	Recursive Doubling and Brucks Algorithm: 6.5869e-05		Ring Algorithm: 0.00029240699999999995
-For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 8.817300000000001e-05		Ring Algorithm: 0.00031471099999999996
-For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 0.00013278100000000006		Ring Algorithm: 0.000359319
-For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 0.00022199700000000012		Ring Algorithm: 0.00044853500000000007
+For message size: 2^11 	Recursive Doubling and Brucks Algorithm: 4.3913499999999985e-05		Ring Algorithm: 0.00027045149999999996
+For message size: 2^12 	Recursive Doubling and Brucks Algorithm: 4.426199999999999e-05		Ring Algorithm: 0.00027079999999999997
+For message size: 2^13 	Recursive Doubling and Brucks Algorithm: 4.495899999999999e-05		Ring Algorithm: 0.00027149699999999994
+For message size: 2^14 	Recursive Doubling and Brucks Algorithm: 4.635299999999999e-05		Ring Algorithm: 0.00027289099999999993
+For message size: 2^15 	Recursive Doubling and Brucks Algorithm: 4.914099999999999e-05		Ring Algorithm: 0.000275679
+For message size: 2^16 	Recursive Doubling and Brucks Algorithm: 5.4717e-05		Ring Algorithm: 0.00028125499999999995
+For message size: 2^17 	Recursive Doubling and Brucks Algorithm: 6.5869e-05		Ring Algorithm: 0.00029240699999999995
+For message size: 2^18 	Recursive Doubling and Brucks Algorithm: 8.817300000000001e-05		Ring Algorithm: 0.00031471099999999996
+For message size: 2^19 	Recursive Doubling and Brucks Algorithm: 0.00013278100000000006		Ring Algorithm: 0.000359319
+For message size: 2^20 	Recursive Doubling and Brucks Algorithm: 0.00022199700000000012		Ring Algorithm: 0.00044853500000000007
 
 Performance for Process Count: 64
 For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 4.351278847217313e-06		Ring Algorithm: 4.566499564194837e-05
@@ -128,16 +128,16 @@ For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 4.6645310826746e
 For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 4.980249871166983e-06		Ring Algorithm: 4.629396666589804e-05
 For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 5.611687448151749e-06		Ring Algorithm: 4.692540424288281e-05
 For message size: 2^10 	Recursive Doubling and Brucks Algorithm: 6.87456260212128e-06		Ring Algorithm: 4.818827939685234e-05
-For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 5.263212096774193e-05		Ring Algorithm: 0.0005492731209677418
-For message size: 2^1 	Recursive Doubling and Brucks Algorithm: 5.2986241935483865e-05		Ring Algorithm: 0.0005496272419354837
-For message size: 2^2 	Recursive Doubling and Brucks Algorithm: 5.369448387096773e-05		Ring Algorithm: 0.0005503354838709676
-For message size: 2^3 	Recursive Doubling and Brucks Algorithm: 5.5110967741935475e-05		Ring Algorithm: 0.0005517519677419353
-For message size: 2^4 	Recursive Doubling and Brucks Algorithm: 5.794393548387096e-05		Ring Algorithm: 0.0005545849354838708
-For message size: 2^5 	Recursive Doubling and Brucks Algorithm: 6.360987096774193e-05		Ring Algorithm: 0.0005602508709677418
-For message size: 2^6 	Recursive Doubling and Brucks Algorithm: 7.494174193548387e-05		Ring Algorithm: 0.0005715827419354837
-For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 9.760548387096777e-05		Ring Algorithm: 0.0005942464838709676
-For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 0.00014293296774193554		Ring Algorithm: 0.0006395739677419354
-For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 0.00023358793548387108		Ring Algorithm: 0.0007302289354838709
+For message size: 2^11 	Recursive Doubling and Brucks Algorithm: 5.263212096774193e-05		Ring Algorithm: 0.0005492731209677418
+For message size: 2^12 	Recursive Doubling and Brucks Algorithm: 5.2986241935483865e-05		Ring Algorithm: 0.0005496272419354837
+For message size: 2^13 	Recursive Doubling and Brucks Algorithm: 5.369448387096773e-05		Ring Algorithm: 0.0005503354838709676
+For message size: 2^14 	Recursive Doubling and Brucks Algorithm: 5.5110967741935475e-05		Ring Algorithm: 0.0005517519677419353
+For message size: 2^15 	Recursive Doubling and Brucks Algorithm: 5.794393548387096e-05		Ring Algorithm: 0.0005545849354838708
+For message size: 2^16 	Recursive Doubling and Brucks Algorithm: 6.360987096774193e-05		Ring Algorithm: 0.0005602508709677418
+For message size: 2^17 	Recursive Doubling and Brucks Algorithm: 7.494174193548387e-05		Ring Algorithm: 0.0005715827419354837
+For message size: 2^18 	Recursive Doubling and Brucks Algorithm: 9.760548387096777e-05		Ring Algorithm: 0.0005942464838709676
+For message size: 2^19 	Recursive Doubling and Brucks Algorithm: 0.00014293296774193554		Ring Algorithm: 0.0006395739677419354
+For message size: 2^20 	Recursive Doubling and Brucks Algorithm: 0.00023358793548387108		Ring Algorithm: 0.0007302289354838709
 =============================================================================================
 Inter-Node Communication
 
@@ -153,16 +153,16 @@ For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 8.97704210833198
 For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 1.0706063726360281e-06		Ring Algorithm: 1.0706063726360281e-06
 For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 1.4164106962416868e-06		Ring Algorithm: 1.4164106962416868e-06
 For message size: 2^10 	Recursive Doubling and Brucks Algorithm: 2.108019343453004e-06		Ring Algorithm: 2.108019343453004e-06
-For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 9.109889784946234e-06		Ring Algorithm: 9.109889784946234e-06
-For message size: 2^1 	Recursive Doubling and Brucks Algorithm: 9.50677956989247e-06		Ring Algorithm: 9.50677956989247e-06
-For message size: 2^2 	Recursive Doubling and Brucks Algorithm: 1.0300559139784945e-05		Ring Algorithm: 1.0300559139784945e-05
-For message size: 2^3 	Recursive Doubling and Brucks Algorithm: 1.188811827956989e-05		Ring Algorithm: 1.188811827956989e-05
-For message size: 2^4 	Recursive Doubling and Brucks Algorithm: 1.5063236559139783e-05		Ring Algorithm: 1.5063236559139783e-05
-For message size: 2^5 	Recursive Doubling and Brucks Algorithm: 2.1413473118279566e-05		Ring Algorithm: 2.1413473118279566e-05
-For message size: 2^6 	Recursive Doubling and Brucks Algorithm: 3.4113946236559136e-05		Ring Algorithm: 3.4113946236559136e-05
-For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 5.9514892473118276e-05		Ring Algorithm: 5.9514892473118276e-05
-For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 0.00011031678494623656		Ring Algorithm: 0.00011031678494623656
-For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 0.00021192056989247313		Ring Algorithm: 0.00021192056989247313
+For message size: 2^11 	Recursive Doubling and Brucks Algorithm: 9.109889784946234e-06		Ring Algorithm: 9.109889784946234e-06
+For message size: 2^12 	Recursive Doubling and Brucks Algorithm: 9.50677956989247e-06		Ring Algorithm: 9.50677956989247e-06
+For message size: 2^13 	Recursive Doubling and Brucks Algorithm: 1.0300559139784945e-05		Ring Algorithm: 1.0300559139784945e-05
+For message size: 2^14 	Recursive Doubling and Brucks Algorithm: 1.188811827956989e-05		Ring Algorithm: 1.188811827956989e-05
+For message size: 2^15 	Recursive Doubling and Brucks Algorithm: 1.5063236559139783e-05		Ring Algorithm: 1.5063236559139783e-05
+For message size: 2^16 	Recursive Doubling and Brucks Algorithm: 2.1413473118279566e-05		Ring Algorithm: 2.1413473118279566e-05
+For message size: 2^17 	Recursive Doubling and Brucks Algorithm: 3.4113946236559136e-05		Ring Algorithm: 3.4113946236559136e-05
+For message size: 2^18 	Recursive Doubling and Brucks Algorithm: 5.9514892473118276e-05		Ring Algorithm: 5.9514892473118276e-05
+For message size: 2^19 	Recursive Doubling and Brucks Algorithm: 0.00011031678494623656		Ring Algorithm: 0.00011031678494623656
+For message size: 2^20 	Recursive Doubling and Brucks Algorithm: 0.00021192056989247313		Ring Algorithm: 0.00021192056989247313
 
 Performance for Process Count: 4
 For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 1.4536564924779926e-06		Ring Algorithm: 2.1784585415083623e-06
@@ -176,16 +176,16 @@ For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 1.96831058346922
 For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 2.4870170688777148e-06		Ring Algorithm: 3.2118191179080846e-06
 For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 3.524430039694691e-06		Ring Algorithm: 4.2492320887250605e-06
 For message size: 2^10 	Recursive Doubling and Brucks Algorithm: 5.599255981328643e-06		Ring Algorithm: 6.324058030359012e-06
-For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 1.8616669354838706e-05		Ring Algorithm: 2.7329669354838706e-05
-For message size: 2^1 	Recursive Doubling and Brucks Algorithm: 1.9807338709677414e-05		Ring Algorithm: 2.8520338709677413e-05
-For message size: 2^2 	Recursive Doubling and Brucks Algorithm: 2.2188677419354835e-05		Ring Algorithm: 3.090167741935483e-05
-For message size: 2^3 	Recursive Doubling and Brucks Algorithm: 2.695135483870967e-05		Ring Algorithm: 3.5664354838709674e-05
-For message size: 2^4 	Recursive Doubling and Brucks Algorithm: 3.647670967741935e-05		Ring Algorithm: 4.5189709677419346e-05
-For message size: 2^5 	Recursive Doubling and Brucks Algorithm: 5.552741935483871e-05		Ring Algorithm: 6.42404193548387e-05
-For message size: 2^6 	Recursive Doubling and Brucks Algorithm: 9.362883870967741e-05		Ring Algorithm: 0.00010234183870967741
-For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 0.00016983167741935483		Ring Algorithm: 0.00017854467741935484
-For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 0.0003222373548387097		Ring Algorithm: 0.0003309503548387097
-For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 0.0006270487096774193		Ring Algorithm: 0.0006357617096774194
+For message size: 2^11 	Recursive Doubling and Brucks Algorithm: 1.8616669354838706e-05		Ring Algorithm: 2.7329669354838706e-05
+For message size: 2^12 	Recursive Doubling and Brucks Algorithm: 1.9807338709677414e-05		Ring Algorithm: 2.8520338709677413e-05
+For message size: 2^13 	Recursive Doubling and Brucks Algorithm: 2.2188677419354835e-05		Ring Algorithm: 3.090167741935483e-05
+For message size: 2^14 	Recursive Doubling and Brucks Algorithm: 2.695135483870967e-05		Ring Algorithm: 3.5664354838709674e-05
+For message size: 2^15 	Recursive Doubling and Brucks Algorithm: 3.647670967741935e-05		Ring Algorithm: 4.5189709677419346e-05
+For message size: 2^16 	Recursive Doubling and Brucks Algorithm: 5.552741935483871e-05		Ring Algorithm: 6.42404193548387e-05
+For message size: 2^17 	Recursive Doubling and Brucks Algorithm: 9.362883870967741e-05		Ring Algorithm: 0.00010234183870967741
+For message size: 2^18 	Recursive Doubling and Brucks Algorithm: 0.00016983167741935483		Ring Algorithm: 0.00017854467741935484
+For message size: 2^19 	Recursive Doubling and Brucks Algorithm: 0.0003222373548387097		Ring Algorithm: 0.0003309503548387097
+For message size: 2^20 	Recursive Doubling and Brucks Algorithm: 0.0006270487096774193		Ring Algorithm: 0.0006357617096774194
 
 Performance for Process Count: 8
 For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 2.1838617340647005e-06		Ring Algorithm: 5.083069930186179e-06
@@ -199,16 +199,16 @@ For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 3.38472127971091
 For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 4.5950364123307185e-06		Ring Algorithm: 7.494244608452197e-06
 For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 7.01566667757033e-06		Ring Algorithm: 9.914874873691808e-06
 For message size: 2^10 	Recursive Doubling and Brucks Algorithm: 1.1856927208049551e-05		Ring Algorithm: 1.4756135404171029e-05
-For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 2.891722849462365e-05		Ring Algorithm: 6.376922849462365e-05
-For message size: 2^1 	Recursive Doubling and Brucks Algorithm: 3.169545698924731e-05		Ring Algorithm: 6.65474569892473e-05
-For message size: 2^2 	Recursive Doubling and Brucks Algorithm: 3.725191397849462e-05		Ring Algorithm: 7.210391397849461e-05
-For message size: 2^3 	Recursive Doubling and Brucks Algorithm: 4.8364827956989244e-05		Ring Algorithm: 8.321682795698923e-05
-For message size: 2^4 	Recursive Doubling and Brucks Algorithm: 7.05906559139785e-05		Ring Algorithm: 0.00010544265591397848
-For message size: 2^5 	Recursive Doubling and Brucks Algorithm: 0.000115042311827957		Ring Algorithm: 0.00014989431182795698
-For message size: 2^6 	Recursive Doubling and Brucks Algorithm: 0.000203945623655914		Ring Algorithm: 0.00023879762365591398
-For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 0.000381752247311828		Ring Algorithm: 0.00041660424731182797
-For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 0.000737365494623656		Ring Algorithm: 0.000772217494623656
-For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 0.0014485919892473118		Ring Algorithm: 0.001483443989247312
+For message size: 2^11 	Recursive Doubling and Brucks Algorithm: 2.891722849462365e-05		Ring Algorithm: 6.376922849462365e-05
+For message size: 2^12 	Recursive Doubling and Brucks Algorithm: 3.169545698924731e-05		Ring Algorithm: 6.65474569892473e-05
+For message size: 2^13 	Recursive Doubling and Brucks Algorithm: 3.725191397849462e-05		Ring Algorithm: 7.210391397849461e-05
+For message size: 2^14 	Recursive Doubling and Brucks Algorithm: 4.8364827956989244e-05		Ring Algorithm: 8.321682795698923e-05
+For message size: 2^15 	Recursive Doubling and Brucks Algorithm: 7.05906559139785e-05		Ring Algorithm: 0.00010544265591397848
+For message size: 2^16 	Recursive Doubling and Brucks Algorithm: 0.000115042311827957		Ring Algorithm: 0.00014989431182795698
+For message size: 2^17 	Recursive Doubling and Brucks Algorithm: 0.000203945623655914		Ring Algorithm: 0.00023879762365591398
+For message size: 2^18 	Recursive Doubling and Brucks Algorithm: 0.000381752247311828		Ring Algorithm: 0.00041660424731182797
+For message size: 2^19 	Recursive Doubling and Brucks Algorithm: 0.000737365494623656		Ring Algorithm: 0.000772217494623656
+For message size: 2^20 	Recursive Doubling and Brucks Algorithm: 0.0014485919892473118		Ring Algorithm: 0.001483443989247312
 
 Performance for Process Count: 16
 For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 2.919470168207747e-06		Ring Algorithm: 1.0892292707541812e-05
@@ -222,16 +222,16 @@ For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 5.49274062316391
 For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 8.086273050206357e-06		Ring Algorithm: 1.6059095589540423e-05
 For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 1.3273337904291238e-05		Ring Algorithm: 2.1246160443625304e-05
 For message size: 2^10 	Recursive Doubling and Brucks Algorithm: 2.3647467612461e-05		Ring Algorithm: 3.162029015179506e-05
-For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 4.080534677419354e-05		Ring Algorithm: 0.0001366483467741935
-For message size: 2^1 	Recursive Doubling and Brucks Algorithm: 4.6758693548387085e-05		Ring Algorithm: 0.00014260169354838705
-For message size: 2^2 	Recursive Doubling and Brucks Algorithm: 5.8665387096774185e-05		Ring Algorithm: 0.00015450838709677416
-For message size: 2^3 	Recursive Doubling and Brucks Algorithm: 8.247877419354839e-05		Ring Algorithm: 0.00017832177419354836
-For message size: 2^4 	Recursive Doubling and Brucks Algorithm: 0.00013010554838709676		Ring Algorithm: 0.00022594854838709673
-For message size: 2^5 	Recursive Doubling and Brucks Algorithm: 0.00022535909677419354		Ring Algorithm: 0.0003212020967741935
-For message size: 2^6 	Recursive Doubling and Brucks Algorithm: 0.0004158661935483871		Ring Algorithm: 0.0005117091935483871
-For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 0.0007968803870967743		Ring Algorithm: 0.0008927233870967741
-For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 0.0015589087741935484		Ring Algorithm: 0.0016547517741935483
-For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 0.003082965548387097		Ring Algorithm: 0.003178808548387097
+For message size: 2^11 	Recursive Doubling and Brucks Algorithm: 4.080534677419354e-05		Ring Algorithm: 0.0001366483467741935
+For message size: 2^12 	Recursive Doubling and Brucks Algorithm: 4.6758693548387085e-05		Ring Algorithm: 0.00014260169354838705
+For message size: 2^13 	Recursive Doubling and Brucks Algorithm: 5.8665387096774185e-05		Ring Algorithm: 0.00015450838709677416
+For message size: 2^14 	Recursive Doubling and Brucks Algorithm: 8.247877419354839e-05		Ring Algorithm: 0.00017832177419354836
+For message size: 2^15 	Recursive Doubling and Brucks Algorithm: 0.00013010554838709676		Ring Algorithm: 0.00022594854838709673
+For message size: 2^16 	Recursive Doubling and Brucks Algorithm: 0.00022535909677419354		Ring Algorithm: 0.0003212020967741935
+For message size: 2^17 	Recursive Doubling and Brucks Algorithm: 0.0004158661935483871		Ring Algorithm: 0.0005117091935483871
+For message size: 2^18 	Recursive Doubling and Brucks Algorithm: 0.0007968803870967743		Ring Algorithm: 0.0008927233870967741
+For message size: 2^19 	Recursive Doubling and Brucks Algorithm: 0.0015589087741935484		Ring Algorithm: 0.0016547517741935483
+For message size: 2^20 	Recursive Doubling and Brucks Algorithm: 0.003082965548387097		Ring Algorithm: 0.003178808548387097
 
 Performance for Process Count: 32
 For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 3.66588498746347e-06		Ring Algorithm: 2.2510738262253078e-05
@@ -245,16 +245,16 @@ For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 8.98397726103955
 For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 1.4343944276927267e-05		Ring Algorithm: 3.318879755171687e-05
 For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 2.5063878308702688e-05		Ring Algorithm: 4.390873158349229e-05
 For message size: 2^10 	Recursive Doubling and Brucks Algorithm: 4.6503746372253524e-05		Ring Algorithm: 6.534859964704313e-05
-For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 5.586858333333332e-05		Ring Algorithm: 0.00028240658333333326
-For message size: 2^1 	Recursive Doubling and Brucks Algorithm: 6.817216666666666e-05		Ring Algorithm: 0.00029471016666666664
-For message size: 2^2 	Recursive Doubling and Brucks Algorithm: 9.277933333333332e-05		Ring Algorithm: 0.00031931733333333327
-For message size: 2^3 	Recursive Doubling and Brucks Algorithm: 0.00014199366666666665		Ring Algorithm: 0.0003685316666666666
-For message size: 2^4 	Recursive Doubling and Brucks Algorithm: 0.00024042233333333333		Ring Algorithm: 0.00046696033333333325
-For message size: 2^5 	Recursive Doubling and Brucks Algorithm: 0.00043727966666666664		Ring Algorithm: 0.0006638176666666667
-For message size: 2^6 	Recursive Doubling and Brucks Algorithm: 0.0008309943333333333		Ring Algorithm: 0.0010575323333333333
-For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 0.0016184236666666667		Ring Algorithm: 0.0018449616666666667
-For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 0.0031932823333333336		Ring Algorithm: 0.0034198203333333332
-For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 0.0063429996666666665		Ring Algorithm: 0.006569537666666667
+For message size: 2^11 	Recursive Doubling and Brucks Algorithm: 5.586858333333332e-05		Ring Algorithm: 0.00028240658333333326
+For message size: 2^12 	Recursive Doubling and Brucks Algorithm: 6.817216666666666e-05		Ring Algorithm: 0.00029471016666666664
+For message size: 2^13 	Recursive Doubling and Brucks Algorithm: 9.277933333333332e-05		Ring Algorithm: 0.00031931733333333327
+For message size: 2^14 	Recursive Doubling and Brucks Algorithm: 0.00014199366666666665		Ring Algorithm: 0.0003685316666666666
+For message size: 2^15 	Recursive Doubling and Brucks Algorithm: 0.00024042233333333333		Ring Algorithm: 0.00046696033333333325
+For message size: 2^16 	Recursive Doubling and Brucks Algorithm: 0.00043727966666666664		Ring Algorithm: 0.0006638176666666667
+For message size: 2^17 	Recursive Doubling and Brucks Algorithm: 0.0008309943333333333		Ring Algorithm: 0.0010575323333333333
+For message size: 2^18 	Recursive Doubling and Brucks Algorithm: 0.0016184236666666667		Ring Algorithm: 0.0018449616666666667
+For message size: 2^19 	Recursive Doubling and Brucks Algorithm: 0.0031932823333333336		Ring Algorithm: 0.0034198203333333332
+For message size: 2^20 	Recursive Doubling and Brucks Algorithm: 0.0063429996666666665		Ring Algorithm: 0.006569537666666667
 
 Performance for Process Count: 64
 For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 4.433912576944547e-06		Ring Algorithm: 4.5747629371675606e-05
@@ -268,13 +268,13 @@ For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 1.52416484877604
 For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 2.6134484681338715e-05		Ring Algorithm: 6.744820147606978e-05
 For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 4.792015706849521e-05		Ring Algorithm: 8.923387386322628e-05
 For message size: 2^10 	Recursive Doubling and Brucks Algorithm: 9.14915018428082e-05		Ring Algorithm: 0.00013280521863753928
-For message size: 2^0 	Recursive Doubling and Brucks Algorithm: 7.728205645161288e-05		Ring Algorithm: 0.0005739230564516128
-For message size: 2^1 	Recursive Doubling and Brucks Algorithm: 0.00010228611290322579		Ring Algorithm: 0.0005989271129032256
-For message size: 2^2 	Recursive Doubling and Brucks Algorithm: 0.00015229422580645158		Ring Algorithm: 0.0006489352258064515
-For message size: 2^3 	Recursive Doubling and Brucks Algorithm: 0.0002523104516129032		Ring Algorithm: 0.000748951451612903
-For message size: 2^4 	Recursive Doubling and Brucks Algorithm: 0.00045234290322580643		Ring Algorithm: 0.0009489839032258062
-For message size: 2^5 	Recursive Doubling and Brucks Algorithm: 0.0008524078064516129		Ring Algorithm: 0.0013490488064516128
-For message size: 2^6 	Recursive Doubling and Brucks Algorithm: 0.0016525376129032257		Ring Algorithm: 0.0021491786129032254
-For message size: 2^7 	Recursive Doubling and Brucks Algorithm: 0.003252797225806451		Ring Algorithm: 0.003749438225806451
-For message size: 2^8 	Recursive Doubling and Brucks Algorithm: 0.006453316451612903		Ring Algorithm: 0.006949957451612903
-For message size: 2^9 	Recursive Doubling and Brucks Algorithm: 0.012854354903225805		Ring Algorithm: 0.013350995903225806
+For message size: 2^11 	Recursive Doubling and Brucks Algorithm: 7.728205645161288e-05		Ring Algorithm: 0.0005739230564516128
+For message size: 2^12 	Recursive Doubling and Brucks Algorithm: 0.00010228611290322579		Ring Algorithm: 0.0005989271129032256
+For message size: 2^13 	Recursive Doubling and Brucks Algorithm: 0.00015229422580645158		Ring Algorithm: 0.0006489352258064515
+For message size: 2^14 	Recursive Doubling and Brucks Algorithm: 0.0002523104516129032		Ring Algorithm: 0.000748951451612903
+For message size: 2^15 	Recursive Doubling and Brucks Algorithm: 0.00045234290322580643		Ring Algorithm: 0.0009489839032258062
+For message size: 2^16 	Recursive Doubling and Brucks Algorithm: 0.0008524078064516129		Ring Algorithm: 0.0013490488064516128
+For message size: 2^17 	Recursive Doubling and Brucks Algorithm: 0.0016525376129032257		Ring Algorithm: 0.0021491786129032254
+For message size: 2^18 	Recursive Doubling and Brucks Algorithm: 0.003252797225806451		Ring Algorithm: 0.003749438225806451
+For message size: 2^19 	Recursive Doubling and Brucks Algorithm: 0.006453316451612903		Ring Algorithm: 0.006949957451612903
+For message size: 2^20 	Recursive Doubling and Brucks Algorithm: 0.012854354903225805		Ring Algorithm: 0.013350995903225806
