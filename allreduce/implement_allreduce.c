@@ -174,6 +174,9 @@ int main(int argc, char* argv[]){
         double* sendbuf = (double*)malloc(size*sizeof(double));
         double* recvbuf = (double*)malloc(size*sizeof(double));
 
+        if(size < num_procs){
+            continue;
+        }
         for(int j=0; j<size; j++){
             sendbuf[j] = (double)rand() / (double)RAND_MAX;
         }
