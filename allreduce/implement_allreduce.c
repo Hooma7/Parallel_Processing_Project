@@ -104,9 +104,9 @@ void rabenseifner(double* sendbuf, double* recvbuf, int size){
     int sendSize = size;
     for(int i=0; i<num_iters; i++){
         int distance = 2 << (num_iters-1-i);
-        int partner_proc = rank+distance % num_procs;
+        int partner_proc = (rank+distance) % num_procs;
 
-        int sendSize = sendSize/2;
+        sendSize = sendSize/2;
         int send_offset, keep_offset;
 
         if(rank < partner_proc){
@@ -175,6 +175,8 @@ int main(int argc, char* argv[]){
         double* recvbuf = (double*)malloc(size*sizeof(double));
 
         if(size < num_procs){
+            free(sendbuf);
+    	    free(recvbuf);
             continue;
         }
         for(int j=0; j<size; j++){
