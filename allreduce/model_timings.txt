@@ -1,0 +1,280 @@
+=============================================================================================
+Intra-Node Communication
+
+Performance for Process Count: 2
+For message size: 2^0 	Recursive Doubling: 7.27307753700944e-07		Binomial Tree Algorithm: 1.454615507401888e-06		Rabenseifner's Algorithm: 1.4521098027313134e-06
+For message size: 2^1 	Recursive Doubling: 7.298134583715184e-07		Binomial Tree Algorithm: 1.4596269167430368e-06		Rabenseifner's Algorithm: 1.454615507401888e-06
+For message size: 2^2 	Recursive Doubling: 7.348248677126673e-07		Binomial Tree Algorithm: 1.4696497354253346e-06		Rabenseifner's Algorithm: 1.4596269167430368e-06
+For message size: 2^3 	Recursive Doubling: 7.448476863949652e-07		Binomial Tree Algorithm: 1.4896953727899305e-06		Rabenseifner's Algorithm: 1.4696497354253346e-06
+For message size: 2^4 	Recursive Doubling: 7.648933237595609e-07		Binomial Tree Algorithm: 1.5297866475191218e-06		Rabenseifner's Algorithm: 1.4896953727899305e-06
+For message size: 2^5 	Recursive Doubling: 8.049845984887525e-07		Binomial Tree Algorithm: 1.609969196977505e-06		Rabenseifner's Algorithm: 1.5297866475191218e-06
+For message size: 2^6 	Recursive Doubling: 8.851671479471354e-07		Binomial Tree Algorithm: 1.7703342958942707e-06		Rabenseifner's Algorithm: 1.609969196977505e-06
+For message size: 2^7 	Recursive Doubling: 1.0455322468639013e-06		Binomial Tree Algorithm: 2.0910644937278025e-06		Rabenseifner's Algorithm: 1.7703342958942707e-06
+For message size: 2^8 	Recursive Doubling: 1.366262444697433e-06		Binomial Tree Algorithm: 2.732524889394866e-06		Rabenseifner's Algorithm: 2.0910644937278025e-06
+For message size: 2^9 	Recursive Doubling: 2.007722840364497e-06		Binomial Tree Algorithm: 4.015445680728994e-06		Rabenseifner's Algorithm: 2.732524889394866e-06
+For message size: 2^10 	Recursive Doubling: 3.290643631698624e-06		Binomial Tree Algorithm: 6.581287263397248e-06		Rabenseifner's Algorithm: 4.015445680728994e-06
+For message size: 2^11 	Recursive Doubling: 9.072741935483869e-06		Binomial Tree Algorithm: 1.8145483870967738e-05		Rabenseifner's Algorithm: 1.7785741935483865e-05
+For message size: 2^12 	Recursive Doubling: 9.43248387096774e-06		Binomial Tree Algorithm: 1.886496774193548e-05		Rabenseifner's Algorithm: 1.8145483870967738e-05
+For message size: 2^13 	Recursive Doubling: 1.0151967741935483e-05		Binomial Tree Algorithm: 2.0303935483870966e-05		Rabenseifner's Algorithm: 1.886496774193548e-05
+For message size: 2^14 	Recursive Doubling: 1.1590935483870968e-05		Binomial Tree Algorithm: 2.3181870967741936e-05		Rabenseifner's Algorithm: 2.0303935483870966e-05
+For message size: 2^15 	Recursive Doubling: 1.4468870967741936e-05		Binomial Tree Algorithm: 2.8937741935483873e-05		Rabenseifner's Algorithm: 2.3181870967741936e-05
+For message size: 2^16 	Recursive Doubling: 2.0224741935483877e-05		Binomial Tree Algorithm: 4.0449483870967753e-05		Rabenseifner's Algorithm: 2.8937741935483873e-05
+For message size: 2^17 	Recursive Doubling: 3.173648387096776e-05		Binomial Tree Algorithm: 6.347296774193551e-05		Rabenseifner's Algorithm: 4.0449483870967753e-05
+For message size: 2^18 	Recursive Doubling: 5.475996774193551e-05		Binomial Tree Algorithm: 0.00010951993548387102		Rabenseifner's Algorithm: 6.347296774193551e-05
+For message size: 2^19 	Recursive Doubling: 0.00010080693548387103		Binomial Tree Algorithm: 0.00020161387096774206		Rabenseifner's Algorithm: 0.00010951993548387102
+For message size: 2^20 	Recursive Doubling: 0.00019290087096774207		Binomial Tree Algorithm: 0.00038580174193548415		Rabenseifner's Algorithm: 0.00020161387096774206
+
+Performance for Process Count: 4
+For message size: 2^0 	Recursive Doubling: 1.454615507401888e-06		Binomial Tree Algorithm: 2.909231014803776e-06		Rabenseifner's Algorithm: 2.9029667531273395e-06
+For message size: 2^1 	Recursive Doubling: 1.4596269167430368e-06		Binomial Tree Algorithm: 2.9192538334860735e-06		Rabenseifner's Algorithm: 2.906725310133201e-06
+For message size: 2^2 	Recursive Doubling: 1.4696497354253346e-06		Binomial Tree Algorithm: 2.939299470850669e-06		Rabenseifner's Algorithm: 2.9142424241449245e-06
+For message size: 2^3 	Recursive Doubling: 1.4896953727899305e-06		Binomial Tree Algorithm: 2.979390745579861e-06		Rabenseifner's Algorithm: 2.9292766521683716e-06
+For message size: 2^4 	Recursive Doubling: 1.5297866475191218e-06		Binomial Tree Algorithm: 3.0595732950382437e-06		Rabenseifner's Algorithm: 2.9593451082152653e-06
+For message size: 2^5 	Recursive Doubling: 1.609969196977505e-06		Binomial Tree Algorithm: 3.21993839395501e-06		Rabenseifner's Algorithm: 3.0194820203090523e-06
+For message size: 2^6 	Recursive Doubling: 1.7703342958942707e-06		Binomial Tree Algorithm: 3.5406685917885414e-06		Rabenseifner's Algorithm: 3.1397558444966268e-06
+For message size: 2^7 	Recursive Doubling: 2.0910644937278025e-06		Binomial Tree Algorithm: 4.182128987455605e-06		Rabenseifner's Algorithm: 3.3803034928717756e-06
+For message size: 2^8 	Recursive Doubling: 2.732524889394866e-06		Binomial Tree Algorithm: 5.465049778789732e-06		Rabenseifner's Algorithm: 3.8613987896220734e-06
+For message size: 2^9 	Recursive Doubling: 4.015445680728994e-06		Binomial Tree Algorithm: 8.030891361457988e-06		Rabenseifner's Algorithm: 4.823589383122669e-06
+For message size: 2^10 	Recursive Doubling: 6.581287263397248e-06		Binomial Tree Algorithm: 1.3162574526794497e-05		Rabenseifner's Algorithm: 6.74797057012386e-06
+For message size: 2^11 	Recursive Doubling: 1.8145483870967738e-05		Binomial Tree Algorithm: 3.6290967741935476e-05		Rabenseifner's Algorithm: 3.53916129032258e-05
+For message size: 2^12 	Recursive Doubling: 1.886496774193548e-05		Binomial Tree Algorithm: 3.772993548387096e-05		Rabenseifner's Algorithm: 3.5931225806451606e-05
+For message size: 2^13 	Recursive Doubling: 2.0303935483870966e-05		Binomial Tree Algorithm: 4.060787096774193e-05		Rabenseifner's Algorithm: 3.7010451612903215e-05
+For message size: 2^14 	Recursive Doubling: 2.3181870967741936e-05		Binomial Tree Algorithm: 4.636374193548387e-05		Rabenseifner's Algorithm: 3.9168903225806446e-05
+For message size: 2^15 	Recursive Doubling: 2.8937741935483873e-05		Binomial Tree Algorithm: 5.7875483870967746e-05		Rabenseifner's Algorithm: 4.34858064516129e-05
+For message size: 2^16 	Recursive Doubling: 4.0449483870967753e-05		Binomial Tree Algorithm: 8.089896774193551e-05		Rabenseifner's Algorithm: 5.2119612903225805e-05
+For message size: 2^17 	Recursive Doubling: 6.347296774193551e-05		Binomial Tree Algorithm: 0.00012694593548387103		Rabenseifner's Algorithm: 6.938722580645163e-05
+For message size: 2^18 	Recursive Doubling: 0.00010951993548387102		Binomial Tree Algorithm: 0.00021903987096774205		Rabenseifner's Algorithm: 0.00010392245161290327
+For message size: 2^19 	Recursive Doubling: 0.00020161387096774206		Binomial Tree Algorithm: 0.0004032277419354841		Rabenseifner's Algorithm: 0.00017299290322580653
+For message size: 2^20 	Recursive Doubling: 0.00038580174193548415		Binomial Tree Algorithm: 0.0007716034838709683		Rabenseifner's Algorithm: 0.00031113380645161307
+
+Performance for Process Count: 8
+For message size: 2^0 	Recursive Doubling: 2.181923261102832e-06		Binomial Tree Algorithm: 4.3638465222056634e-06		Rabenseifner's Algorithm: 4.353197277355722e-06
+For message size: 2^1 	Recursive Doubling: 2.189440375114555e-06		Binomial Tree Algorithm: 4.37888075022911e-06		Rabenseifner's Algorithm: 4.357582260529227e-06
+For message size: 2^2 	Recursive Doubling: 2.204474603138002e-06		Binomial Tree Algorithm: 4.408949206276004e-06		Rabenseifner's Algorithm: 4.366352226876238e-06
+For message size: 2^3 	Recursive Doubling: 2.234543059184896e-06		Binomial Tree Algorithm: 4.469086118369791e-06		Rabenseifner's Algorithm: 4.3838921595702595e-06
+For message size: 2^4 	Recursive Doubling: 2.294679971278683e-06		Binomial Tree Algorithm: 4.589359942557366e-06		Rabenseifner's Algorithm: 4.418972024958302e-06
+For message size: 2^5 	Recursive Doubling: 2.4149537954662573e-06		Binomial Tree Algorithm: 4.829907590932515e-06		Rabenseifner's Algorithm: 4.489131755734387e-06
+For message size: 2^6 	Recursive Doubling: 2.655501443841406e-06		Binomial Tree Algorithm: 5.311002887682812e-06		Rabenseifner's Algorithm: 4.629451217286557e-06
+For message size: 2^7 	Recursive Doubling: 3.1365967405917035e-06		Binomial Tree Algorithm: 6.273193481183408e-06		Rabenseifner's Algorithm: 4.910090140390897e-06
+For message size: 2^8 	Recursive Doubling: 4.098787334092299e-06		Binomial Tree Algorithm: 8.1975746681846e-06		Rabenseifner's Algorithm: 5.4713679865995786e-06
+For message size: 2^9 	Recursive Doubling: 6.023168521093491e-06		Binomial Tree Algorithm: 1.2046337042186982e-05		Rabenseifner's Algorithm: 6.5939236790169395e-06
+For message size: 2^10 	Recursive Doubling: 9.871930895095872e-06		Binomial Tree Algorithm: 1.9743861790191747e-05		Rabenseifner's Algorithm: 8.839035063851661e-06
+For message size: 2^11 	Recursive Doubling: 2.7218225806451607e-05		Binomial Tree Algorithm: 5.4436451612903214e-05		Rabenseifner's Algorithm: 5.2907548387096767e-05
+For message size: 2^12 	Recursive Doubling: 2.829745161290322e-05		Binomial Tree Algorithm: 5.6594903225806445e-05		Rabenseifner's Algorithm: 5.353709677419354e-05
+For message size: 2^13 	Recursive Doubling: 3.045590322580645e-05		Binomial Tree Algorithm: 6.09118064516129e-05		Rabenseifner's Algorithm: 5.479619354838709e-05
+For message size: 2^14 	Recursive Doubling: 3.4772806451612905e-05		Binomial Tree Algorithm: 6.954561290322581e-05		Rabenseifner's Algorithm: 5.7314387096774184e-05
+For message size: 2^15 	Recursive Doubling: 4.340661290322581e-05		Binomial Tree Algorithm: 8.681322580645162e-05		Rabenseifner's Algorithm: 6.235077419354838e-05
+For message size: 2^16 	Recursive Doubling: 6.067422580645163e-05		Binomial Tree Algorithm: 0.00012134845161290326		Rabenseifner's Algorithm: 7.242354838709678e-05
+For message size: 2^17 	Recursive Doubling: 9.520945161290327e-05		Binomial Tree Algorithm: 0.00019041890322580652		Rabenseifner's Algorithm: 9.256909677419356e-05
+For message size: 2^18 	Recursive Doubling: 0.00016427990322580654		Binomial Tree Algorithm: 0.0003285598064516131		Rabenseifner's Algorithm: 0.00013286019354838714
+For message size: 2^19 	Recursive Doubling: 0.0003024208064516131		Binomial Tree Algorithm: 0.0006048416129032262		Rabenseifner's Algorithm: 0.00021344238709677428
+For message size: 2^20 	Recursive Doubling: 0.0005787026129032262		Binomial Tree Algorithm: 0.0011574052258064523		Rabenseifner's Algorithm: 0.0003746067741935486
+
+Performance for Process Count: 16
+For message size: 2^0 	Recursive Doubling: 2.909231014803776e-06		Binomial Tree Algorithm: 5.818462029607552e-06		Rabenseifner's Algorithm: 5.803114588500283e-06
+For message size: 2^1 	Recursive Doubling: 2.9192538334860735e-06		Binomial Tree Algorithm: 5.838507666972147e-06		Rabenseifner's Algorithm: 5.80781278475761e-06
+For message size: 2^2 	Recursive Doubling: 2.939299470850669e-06		Binomial Tree Algorithm: 5.878598941701338e-06		Rabenseifner's Algorithm: 5.817209177272264e-06
+For message size: 2^3 	Recursive Doubling: 2.979390745579861e-06		Binomial Tree Algorithm: 5.958781491159722e-06		Rabenseifner's Algorithm: 5.836001962301572e-06
+For message size: 2^4 	Recursive Doubling: 3.0595732950382437e-06		Binomial Tree Algorithm: 6.119146590076487e-06		Rabenseifner's Algorithm: 5.87358753236019e-06
+For message size: 2^5 	Recursive Doubling: 3.21993839395501e-06		Binomial Tree Algorithm: 6.43987678791002e-06		Rabenseifner's Algorithm: 5.948758672477424e-06
+For message size: 2^6 	Recursive Doubling: 3.5406685917885414e-06		Binomial Tree Algorithm: 7.081337183577083e-06		Rabenseifner's Algorithm: 6.099100952711892e-06
+For message size: 2^7 	Recursive Doubling: 4.182128987455605e-06		Binomial Tree Algorithm: 8.36425797491121e-06		Rabenseifner's Algorithm: 6.399785513180828e-06
+For message size: 2^8 	Recursive Doubling: 5.465049778789732e-06		Binomial Tree Algorithm: 1.0930099557579464e-05		Rabenseifner's Algorithm: 7.0011546341187e-06
+For message size: 2^9 	Recursive Doubling: 8.030891361457988e-06		Binomial Tree Algorithm: 1.6061782722915976e-05		Rabenseifner's Algorithm: 8.203892875994445e-06
+For message size: 2^10 	Recursive Doubling: 1.3162574526794497e-05		Binomial Tree Algorithm: 2.6325149053588993e-05		Rabenseifner's Algorithm: 1.0609369359745934e-05
+For message size: 2^11 	Recursive Doubling: 3.6290967741935476e-05		Binomial Tree Algorithm: 7.258193548387095e-05		Rabenseifner's Algorithm: 7.037851612903224e-05
+For message size: 2^12 	Recursive Doubling: 3.772993548387096e-05		Binomial Tree Algorithm: 7.545987096774192e-05		Rabenseifner's Algorithm: 7.10530322580645e-05
+For message size: 2^13 	Recursive Doubling: 4.060787096774193e-05		Binomial Tree Algorithm: 8.121574193548386e-05		Rabenseifner's Algorithm: 7.240206451612901e-05
+For message size: 2^14 	Recursive Doubling: 4.636374193548387e-05		Binomial Tree Algorithm: 9.272748387096774e-05		Rabenseifner's Algorithm: 7.510012903225805e-05
+For message size: 2^15 	Recursive Doubling: 5.7875483870967746e-05		Binomial Tree Algorithm: 0.00011575096774193549		Rabenseifner's Algorithm: 8.049625806451612e-05
+For message size: 2^16 	Recursive Doubling: 8.089896774193551e-05		Binomial Tree Algorithm: 0.00016179793548387101		Rabenseifner's Algorithm: 9.128851612903225e-05
+For message size: 2^17 	Recursive Doubling: 0.00012694593548387103		Binomial Tree Algorithm: 0.00025389187096774206		Rabenseifner's Algorithm: 0.00011287303225806453
+For message size: 2^18 	Recursive Doubling: 0.00021903987096774205		Binomial Tree Algorithm: 0.0004380797419354841		Rabenseifner's Algorithm: 0.00015604206451612907
+For message size: 2^19 	Recursive Doubling: 0.0004032277419354841		Binomial Tree Algorithm: 0.0008064554838709682		Rabenseifner's Algorithm: 0.00024238012903225818
+For message size: 2^20 	Recursive Doubling: 0.0007716034838709683		Binomial Tree Algorithm: 0.0015432069677419366		Rabenseifner's Algorithm: 0.00041505625806451634
+
+Performance for Process Count: 32
+For message size: 2^0 	Recursive Doubling: 3.6365387685047197e-06		Binomial Tree Algorithm: 7.273077537009439e-06		Rabenseifner's Algorithm: 7.252875293102933e-06
+For message size: 2^1 	Recursive Doubling: 3.649067291857592e-06		Binomial Tree Algorithm: 7.298134583715184e-06		Rabenseifner's Algorithm: 7.257730095902171e-06
+For message size: 2^2 	Recursive Doubling: 3.6741243385633363e-06		Binomial Tree Algorithm: 7.3482486771266734e-06		Rabenseifner's Algorithm: 7.2674397015006464e-06
+For message size: 2^3 	Recursive Doubling: 3.724238431974826e-06		Binomial Tree Algorithm: 7.448476863949652e-06		Rabenseifner's Algorithm: 7.286858912697599e-06
+For message size: 2^4 	Recursive Doubling: 3.8244666187978045e-06		Binomial Tree Algorithm: 7.648933237595609e-06		Rabenseifner's Algorithm: 7.3256973350915035e-06
+For message size: 2^5 	Recursive Doubling: 4.024922992443762e-06		Binomial Tree Algorithm: 8.049845984887524e-06		Rabenseifner's Algorithm: 7.4033741798793114e-06
+For message size: 2^6 	Recursive Doubling: 4.425835739735677e-06		Binomial Tree Algorithm: 8.851671479471354e-06		Rabenseifner's Algorithm: 7.558727869454929e-06
+For message size: 2^7 	Recursive Doubling: 5.2276612343195065e-06		Binomial Tree Algorithm: 1.0455322468639013e-05		Rabenseifner's Algorithm: 7.869435248606163e-06
+For message size: 2^8 	Recursive Doubling: 6.831312223487165e-06		Binomial Tree Algorithm: 1.3662624446974332e-05		Rabenseifner's Algorithm: 8.490850006908631e-06
+For message size: 2^9 	Recursive Doubling: 1.0038614201822485e-05		Binomial Tree Algorithm: 2.0077228403644967e-05		Rabenseifner's Algorithm: 9.733679523513565e-06
+For message size: 2^10 	Recursive Doubling: 1.6453218158493122e-05		Binomial Tree Algorithm: 3.2906436316986243e-05		Rabenseifner's Algorithm: 1.2219338556723437e-05
+For message size: 2^11 	Recursive Doubling: 4.536370967741935e-05		Binomial Tree Algorithm: 9.072741935483868e-05		Rabenseifner's Algorithm: 8.782699999999997e-05
+For message size: 2^12 	Recursive Doubling: 4.71624193548387e-05		Binomial Tree Algorithm: 9.432483870967739e-05		Rabenseifner's Algorithm: 8.852399999999998e-05
+For message size: 2^13 	Recursive Doubling: 5.075983870967741e-05		Binomial Tree Algorithm: 0.00010151967741935482		Rabenseifner's Algorithm: 8.991799999999997e-05
+For message size: 2^14 	Recursive Doubling: 5.795467741935484e-05		Binomial Tree Algorithm: 0.00011590935483870968		Rabenseifner's Algorithm: 9.270599999999998e-05
+For message size: 2^15 	Recursive Doubling: 7.234435483870968e-05		Binomial Tree Algorithm: 0.00014468870967741936		Rabenseifner's Algorithm: 9.828199999999998e-05
+For message size: 2^16 	Recursive Doubling: 0.00010112370967741938		Binomial Tree Algorithm: 0.00020224741935483877		Rabenseifner's Algorithm: 0.000109434
+For message size: 2^17 	Recursive Doubling: 0.00015868241935483877		Binomial Tree Algorithm: 0.00031736483870967755		Rabenseifner's Algorithm: 0.000131738
+For message size: 2^18 	Recursive Doubling: 0.0002737998387096776		Binomial Tree Algorithm: 0.0005475996774193552		Rabenseifner's Algorithm: 0.00017634600000000002
+For message size: 2^19 	Recursive Doubling: 0.0005040346774193552		Binomial Tree Algorithm: 0.0010080693548387104		Rabenseifner's Algorithm: 0.0002655620000000001
+For message size: 2^20 	Recursive Doubling: 0.0009645043548387104		Binomial Tree Algorithm: 0.0019290087096774206		Rabenseifner's Algorithm: 0.00044399400000000024
+
+Performance for Process Count: 64
+For message size: 2^0 	Recursive Doubling: 4.363846522205664e-06		Binomial Tree Algorithm: 8.727693044411327e-06		Rabenseifner's Algorithm: 8.702557694434627e-06
+For message size: 2^1 	Recursive Doubling: 4.37888075022911e-06		Binomial Tree Algorithm: 8.75776150045822e-06		Rabenseifner's Algorithm: 8.707490800504821e-06
+For message size: 2^2 	Recursive Doubling: 4.408949206276004e-06		Binomial Tree Algorithm: 8.817898412552008e-06		Rabenseifner's Algorithm: 8.717357012645207e-06
+For message size: 2^3 	Recursive Doubling: 4.469086118369792e-06		Binomial Tree Algorithm: 8.938172236739582e-06		Rabenseifner's Algorithm: 8.73708943692598e-06
+For message size: 2^4 	Recursive Doubling: 4.589359942557366e-06		Binomial Tree Algorithm: 9.178719885114731e-06		Rabenseifner's Algorithm: 8.77655428548753e-06
+For message size: 2^5 	Recursive Doubling: 4.829907590932515e-06		Binomial Tree Algorithm: 9.65981518186503e-06		Rabenseifner's Algorithm: 8.855483982610625e-06
+For message size: 2^6 	Recursive Doubling: 5.311002887682812e-06		Binomial Tree Algorithm: 1.0622005775365625e-05		Rabenseifner's Algorithm: 9.013343376856817e-06
+For message size: 2^7 	Recursive Doubling: 6.273193481183407e-06		Binomial Tree Algorithm: 1.2546386962366816e-05		Rabenseifner's Algorithm: 9.3290621653492e-06
+For message size: 2^8 	Recursive Doubling: 8.197574668184598e-06		Binomial Tree Algorithm: 1.63951493363692e-05		Rabenseifner's Algorithm: 9.960499742333965e-06
+For message size: 2^9 	Recursive Doubling: 1.2046337042186982e-05		Binomial Tree Algorithm: 2.4092674084373964e-05		Rabenseifner's Algorithm: 1.1223374896303497e-05
+For message size: 2^10 	Recursive Doubling: 1.9743861790191743e-05		Binomial Tree Algorithm: 3.9487723580383493e-05		Rabenseifner's Algorithm: 1.374912520424256e-05
+For message size: 2^11 	Recursive Doubling: 5.4436451612903214e-05		Binomial Tree Algorithm: 0.00010887290322580643		Rabenseifner's Algorithm: 0.00010526424193548385
+For message size: 2^12 	Recursive Doubling: 5.659490322580644e-05		Binomial Tree Algorithm: 0.00011318980645161289		Rabenseifner's Algorithm: 0.00010597248387096773
+For message size: 2^13 	Recursive Doubling: 6.09118064516129e-05		Binomial Tree Algorithm: 0.0001218236129032258		Rabenseifner's Algorithm: 0.00010738896774193547
+For message size: 2^14 	Recursive Doubling: 6.954561290322581e-05		Binomial Tree Algorithm: 0.00013909122580645162		Rabenseifner's Algorithm: 0.00011022193548387095
+For message size: 2^15 	Recursive Doubling: 8.681322580645162e-05		Binomial Tree Algorithm: 0.00017362645161290324		Rabenseifner's Algorithm: 0.00011588787096774192
+For message size: 2^16 	Recursive Doubling: 0.00012134845161290326		Binomial Tree Algorithm: 0.00024269690322580652		Rabenseifner's Algorithm: 0.00012721974193548386
+For message size: 2^17 	Recursive Doubling: 0.00019041890322580654		Binomial Tree Algorithm: 0.00038083780645161304		Rabenseifner's Algorithm: 0.00014988348387096775
+For message size: 2^18 	Recursive Doubling: 0.0003285598064516131		Binomial Tree Algorithm: 0.0006571196129032262		Rabenseifner's Algorithm: 0.00019521096774193555
+For message size: 2^19 	Recursive Doubling: 0.0006048416129032262		Binomial Tree Algorithm: 0.0012096832258064523		Rabenseifner's Algorithm: 0.0002858659354838711
+For message size: 2^20 	Recursive Doubling: 0.0011574052258064523		Binomial Tree Algorithm: 0.0023148104516129047		Rabenseifner's Algorithm: 0.00046717587096774217
+=============================================================================================
+Inter-Node Communication
+
+Performance for Process Count: 2
+For message size: 2^0 	Recursive Doubling: 7.275036453085386e-07		Binomial Tree Algorithm: 1.4550072906170773e-06		Rabenseifner's Algorithm: 1.4523056943389082e-06
+For message size: 2^1 	Recursive Doubling: 7.302052415867079e-07		Binomial Tree Algorithm: 1.4604104831734159e-06		Rabenseifner's Algorithm: 1.4550072906170773e-06
+For message size: 2^2 	Recursive Doubling: 7.356084341430463e-07		Binomial Tree Algorithm: 1.4712168682860926e-06		Rabenseifner's Algorithm: 1.4604104831734159e-06
+For message size: 2^3 	Recursive Doubling: 7.464148192557231e-07		Binomial Tree Algorithm: 1.4928296385114462e-06		Rabenseifner's Algorithm: 1.4712168682860926e-06
+For message size: 2^4 	Recursive Doubling: 7.680275894810768e-07		Binomial Tree Algorithm: 1.5360551789621537e-06		Rabenseifner's Algorithm: 1.4928296385114462e-06
+For message size: 2^5 	Recursive Doubling: 8.112531299317842e-07		Binomial Tree Algorithm: 1.6225062598635684e-06		Rabenseifner's Algorithm: 1.5360551789621537e-06
+For message size: 2^6 	Recursive Doubling: 8.977042108331988e-07		Binomial Tree Algorithm: 1.7954084216663976e-06		Rabenseifner's Algorithm: 1.6225062598635684e-06
+For message size: 2^7 	Recursive Doubling: 1.0706063726360281e-06		Binomial Tree Algorithm: 2.1412127452720563e-06		Rabenseifner's Algorithm: 1.7954084216663976e-06
+For message size: 2^8 	Recursive Doubling: 1.4164106962416868e-06		Binomial Tree Algorithm: 2.8328213924833736e-06		Rabenseifner's Algorithm: 2.1412127452720563e-06
+For message size: 2^9 	Recursive Doubling: 2.108019343453004e-06		Binomial Tree Algorithm: 4.216038686906008e-06		Rabenseifner's Algorithm: 2.8328213924833736e-06
+For message size: 2^10 	Recursive Doubling: 3.491236637875639e-06		Binomial Tree Algorithm: 6.982473275751278e-06		Rabenseifner's Algorithm: 4.216038686906008e-06
+For message size: 2^11 	Recursive Doubling: 9.50677956989247e-06		Binomial Tree Algorithm: 1.901355913978494e-05		Rabenseifner's Algorithm: 1.8219779569892468e-05
+For message size: 2^12 	Recursive Doubling: 1.0300559139784945e-05		Binomial Tree Algorithm: 2.060111827956989e-05		Rabenseifner's Algorithm: 1.901355913978494e-05
+For message size: 2^13 	Recursive Doubling: 1.188811827956989e-05		Binomial Tree Algorithm: 2.377623655913978e-05		Rabenseifner's Algorithm: 2.060111827956989e-05
+For message size: 2^14 	Recursive Doubling: 1.5063236559139783e-05		Binomial Tree Algorithm: 3.0126473118279565e-05		Rabenseifner's Algorithm: 2.377623655913978e-05
+For message size: 2^15 	Recursive Doubling: 2.1413473118279566e-05		Binomial Tree Algorithm: 4.282694623655913e-05		Rabenseifner's Algorithm: 3.0126473118279565e-05
+For message size: 2^16 	Recursive Doubling: 3.4113946236559136e-05		Binomial Tree Algorithm: 6.822789247311827e-05		Rabenseifner's Algorithm: 4.282694623655913e-05
+For message size: 2^17 	Recursive Doubling: 5.9514892473118276e-05		Binomial Tree Algorithm: 0.00011902978494623655		Rabenseifner's Algorithm: 6.822789247311827e-05
+For message size: 2^18 	Recursive Doubling: 0.00011031678494623656		Binomial Tree Algorithm: 0.0002206335698924731		Rabenseifner's Algorithm: 0.00011902978494623655
+For message size: 2^19 	Recursive Doubling: 0.00021192056989247313		Binomial Tree Algorithm: 0.00042384113978494626		Rabenseifner's Algorithm: 0.0002206335698924731
+For message size: 2^20 	Recursive Doubling: 0.0004151281397849462		Binomial Tree Algorithm: 0.0008302562795698924		Rabenseifner's Algorithm: 0.00042384113978494626
+
+Performance for Process Count: 4
+For message size: 2^0 	Recursive Doubling: 1.4604104831734159e-06		Binomial Tree Algorithm: 2.9208209663468317e-06		Rabenseifner's Algorithm: 2.9073129849559853e-06
+For message size: 2^1 	Recursive Doubling: 1.4712168682860926e-06		Binomial Tree Algorithm: 2.942433736572185e-06		Rabenseifner's Algorithm: 2.915417773790493e-06
+For message size: 2^2 	Recursive Doubling: 1.4928296385114462e-06		Binomial Tree Algorithm: 2.9856592770228924e-06		Rabenseifner's Algorithm: 2.9316273514595084e-06
+For message size: 2^3 	Recursive Doubling: 1.5360551789621537e-06		Binomial Tree Algorithm: 3.0721103579243073e-06		Rabenseifner's Algorithm: 2.964046506797539e-06
+For message size: 2^4 	Recursive Doubling: 1.6225062598635684e-06		Binomial Tree Algorithm: 3.2450125197271368e-06		Rabenseifner's Algorithm: 3.0288848174736e-06
+For message size: 2^5 	Recursive Doubling: 1.7954084216663976e-06		Binomial Tree Algorithm: 3.5908168433327952e-06		Rabenseifner's Algorithm: 3.158561438825722e-06
+For message size: 2^6 	Recursive Doubling: 2.1412127452720563e-06		Binomial Tree Algorithm: 4.2824254905441126e-06		Rabenseifner's Algorithm: 3.4179146815299658e-06
+For message size: 2^7 	Recursive Doubling: 2.8328213924833736e-06		Binomial Tree Algorithm: 5.665642784966747e-06		Rabenseifner's Algorithm: 3.936621166938454e-06
+For message size: 2^8 	Recursive Doubling: 4.216038686906008e-06		Binomial Tree Algorithm: 8.432077373812017e-06		Rabenseifner's Algorithm: 4.9740341377554295e-06
+For message size: 2^9 	Recursive Doubling: 6.982473275751278e-06		Binomial Tree Algorithm: 1.3964946551502556e-05		Rabenseifner's Algorithm: 7.048860079389382e-06
+For message size: 2^10 	Recursive Doubling: 1.2515342453441816e-05		Binomial Tree Algorithm: 2.503068490688363e-05		Rabenseifner's Algorithm: 1.1198511962657286e-05
+For message size: 2^11 	Recursive Doubling: 2.060111827956989e-05		Binomial Tree Algorithm: 4.120223655913978e-05		Rabenseifner's Algorithm: 3.723333870967741e-05
+For message size: 2^12 	Recursive Doubling: 2.377623655913978e-05		Binomial Tree Algorithm: 4.755247311827956e-05		Rabenseifner's Algorithm: 3.961467741935483e-05
+For message size: 2^13 	Recursive Doubling: 3.0126473118279565e-05		Binomial Tree Algorithm: 6.025294623655913e-05		Rabenseifner's Algorithm: 4.437735483870967e-05
+For message size: 2^14 	Recursive Doubling: 4.282694623655913e-05		Binomial Tree Algorithm: 8.565389247311826e-05		Rabenseifner's Algorithm: 5.390270967741934e-05
+For message size: 2^15 	Recursive Doubling: 6.822789247311827e-05		Binomial Tree Algorithm: 0.00013645578494623654		Rabenseifner's Algorithm: 7.29534193548387e-05
+For message size: 2^16 	Recursive Doubling: 0.00011902978494623655		Binomial Tree Algorithm: 0.0002380595698924731		Rabenseifner's Algorithm: 0.00011105483870967742
+For message size: 2^17 	Recursive Doubling: 0.0002206335698924731		Binomial Tree Algorithm: 0.0004412671397849462		Rabenseifner's Algorithm: 0.00018725767741935482
+For message size: 2^18 	Recursive Doubling: 0.00042384113978494626		Binomial Tree Algorithm: 0.0008476822795698925		Rabenseifner's Algorithm: 0.00033966335483870966
+For message size: 2^19 	Recursive Doubling: 0.0008302562795698924		Binomial Tree Algorithm: 0.0016605125591397849		Rabenseifner's Algorithm: 0.0006444747096774194
+For message size: 2^20 	Recursive Doubling: 0.001643086559139785		Binomial Tree Algorithm: 0.00328617311827957		Rabenseifner's Algorithm: 0.0012540974193548386
+
+Performance for Process Count: 8
+For message size: 2^0 	Recursive Doubling: 2.206825302429139e-06		Binomial Tree Algorithm: 4.413650604858278e-06		Rabenseifner's Algorithm: 4.367723468129401e-06
+For message size: 2^1 	Recursive Doubling: 2.239244457767169e-06		Binomial Tree Algorithm: 4.478488915534339e-06		Rabenseifner's Algorithm: 4.386634642076586e-06
+For message size: 2^2 	Recursive Doubling: 2.3040827684432306e-06		Binomial Tree Algorithm: 4.608165536886461e-06		Rabenseifner's Algorithm: 4.424456989970955e-06
+For message size: 2^3 	Recursive Doubling: 2.4337593897953524e-06		Binomial Tree Algorithm: 4.867518779590705e-06		Rabenseifner's Algorithm: 4.500101685759692e-06
+For message size: 2^4 	Recursive Doubling: 2.6931126324995963e-06		Binomial Tree Algorithm: 5.386225264999193e-06		Rabenseifner's Algorithm: 4.651391077337168e-06
+For message size: 2^5 	Recursive Doubling: 3.2118191179080846e-06		Binomial Tree Algorithm: 6.423638235816169e-06		Rabenseifner's Algorithm: 4.953969860492119e-06
+For message size: 2^6 	Recursive Doubling: 4.2492320887250605e-06		Binomial Tree Algorithm: 8.498464177450121e-06		Rabenseifner's Algorithm: 5.5591274268020225e-06
+For message size: 2^7 	Recursive Doubling: 6.324058030359012e-06		Binomial Tree Algorithm: 1.2648116060718024e-05		Rabenseifner's Algorithm: 6.769442559421827e-06
+For message size: 2^8 	Recursive Doubling: 1.0473709913626917e-05		Binomial Tree Algorithm: 2.0947419827253834e-05		Rabenseifner's Algorithm: 9.190072824661437e-06
+For message size: 2^9 	Recursive Doubling: 1.8773013680162724e-05		Binomial Tree Algorithm: 3.754602736032545e-05		Rabenseifner's Algorithm: 1.403133335514066e-05
+For message size: 2^10 	Recursive Doubling: 3.537162121323434e-05		Binomial Tree Algorithm: 7.074324242646868e-05		Rabenseifner's Algorithm: 2.3713854416099102e-05
+For message size: 2^11 	Recursive Doubling: 3.5664354838709674e-05		Binomial Tree Algorithm: 7.132870967741935e-05		Rabenseifner's Algorithm: 5.78344569892473e-05
+For message size: 2^12 	Recursive Doubling: 4.5189709677419346e-05		Binomial Tree Algorithm: 9.037941935483869e-05		Rabenseifner's Algorithm: 6.339091397849461e-05
+For message size: 2^13 	Recursive Doubling: 6.424041935483869e-05		Binomial Tree Algorithm: 0.0001284808387096774		Rabenseifner's Algorithm: 7.450382795698924e-05
+For message size: 2^14 	Recursive Doubling: 0.00010234183870967741		Binomial Tree Algorithm: 0.00020468367741935481		Rabenseifner's Algorithm: 9.672965591397849e-05
+For message size: 2^15 	Recursive Doubling: 0.0001785446774193548		Binomial Tree Algorithm: 0.0003570893548387097		Rabenseifner's Algorithm: 0.000141181311827957
+For message size: 2^16 	Recursive Doubling: 0.0003309503548387097		Binomial Tree Algorithm: 0.0006619007096774194		Rabenseifner's Algorithm: 0.000230084623655914
+For message size: 2^17 	Recursive Doubling: 0.0006357617096774194		Binomial Tree Algorithm: 0.0012715234193548387		Rabenseifner's Algorithm: 0.000407891247311828
+For message size: 2^18 	Recursive Doubling: 0.0012453844193548386		Binomial Tree Algorithm: 0.002490768838709677		Rabenseifner's Algorithm: 0.000763504494623656
+For message size: 2^19 	Recursive Doubling: 0.0024646298387096775		Binomial Tree Algorithm: 0.004929259677419355		Rabenseifner's Algorithm: 0.001474730989247312
+For message size: 2^20 	Recursive Doubling: 0.004903120677419355		Binomial Tree Algorithm: 0.009806241354838709		Rabenseifner's Algorithm: 0.0028971839784946237
+
+Performance for Process Count: 16
+For message size: 2^0 	Recursive Doubling: 2.9856592770228924e-06		Binomial Tree Algorithm: 5.971318554045785e-06		Rabenseifner's Algorithm: 5.838940336415494e-06
+For message size: 2^1 	Recursive Doubling: 3.0721103579243073e-06		Binomial Tree Algorithm: 6.144220715848615e-06		Rabenseifner's Algorithm: 5.879464280588032e-06
+For message size: 2^2 	Recursive Doubling: 3.2450125197271368e-06		Binomial Tree Algorithm: 6.4900250394542735e-06		Rabenseifner's Algorithm: 5.9605121689331085e-06
+For message size: 2^3 	Recursive Doubling: 3.5908168433327952e-06		Binomial Tree Algorithm: 7.1816336866655904e-06		Rabenseifner's Algorithm: 6.12260794562326e-06
+For message size: 2^4 	Recursive Doubling: 4.2824254905441126e-06		Binomial Tree Algorithm: 8.564850981088225e-06		Rabenseifner's Algorithm: 6.446799499003566e-06
+For message size: 2^5 	Recursive Doubling: 5.665642784966747e-06		Binomial Tree Algorithm: 1.1331285569933495e-05		Rabenseifner's Algorithm: 7.095182605764176e-06
+For message size: 2^6 	Recursive Doubling: 8.432077373812017e-06		Binomial Tree Algorithm: 1.6864154747624033e-05		Rabenseifner's Algorithm: 8.391948819285396e-06
+For message size: 2^7 	Recursive Doubling: 1.3964946551502556e-05		Binomial Tree Algorithm: 2.792989310300511e-05		Rabenseifner's Algorithm: 1.0985481246327837e-05
+For message size: 2^8 	Recursive Doubling: 2.503068490688363e-05		Binomial Tree Algorithm: 5.006136981376726e-05		Rabenseifner's Algorithm: 1.6172546100412714e-05
+For message size: 2^9 	Recursive Doubling: 4.716216161764579e-05		Binomial Tree Algorithm: 9.432432323529157e-05		Rabenseifner's Algorithm: 2.6546675808582476e-05
+For message size: 2^10 	Recursive Doubling: 9.14251150391701e-05		Binomial Tree Algorithm: 0.0001828502300783402		Rabenseifner's Algorithm: 4.7294935224922e-05
+For message size: 2^11 	Recursive Doubling: 6.025294623655913e-05		Binomial Tree Algorithm: 0.00012050589247311826		Rabenseifner's Algorithm: 8.161069354838708e-05
+For message size: 2^12 	Recursive Doubling: 8.565389247311826e-05		Binomial Tree Algorithm: 0.00017130778494623653		Rabenseifner's Algorithm: 9.351738709677417e-05
+For message size: 2^13 	Recursive Doubling: 0.00013645578494623654		Binomial Tree Algorithm: 0.0002729115698924731		Rabenseifner's Algorithm: 0.00011733077419354837
+For message size: 2^14 	Recursive Doubling: 0.0002380595698924731		Binomial Tree Algorithm: 0.0004761191397849462		Rabenseifner's Algorithm: 0.00016495754838709677
+For message size: 2^15 	Recursive Doubling: 0.0004412671397849462		Binomial Tree Algorithm: 0.0008825342795698924		Rabenseifner's Algorithm: 0.0002602110967741935
+For message size: 2^16 	Recursive Doubling: 0.0008476822795698925		Binomial Tree Algorithm: 0.001695364559139785		Rabenseifner's Algorithm: 0.0004507181935483871
+For message size: 2^17 	Recursive Doubling: 0.0016605125591397849		Binomial Tree Algorithm: 0.0033210251182795698		Rabenseifner's Algorithm: 0.0008317323870967742
+For message size: 2^18 	Recursive Doubling: 0.00328617311827957		Binomial Tree Algorithm: 0.00657234623655914		Rabenseifner's Algorithm: 0.0015937607741935485
+For message size: 2^19 	Recursive Doubling: 0.00653749423655914		Binomial Tree Algorithm: 0.01307498847311828		Rabenseifner's Algorithm: 0.0031178175483870967
+For message size: 2^20 	Recursive Doubling: 0.01304013647311828		Binomial Tree Algorithm: 0.02608027294623656		Rabenseifner's Algorithm: 0.006165931096774194
+
+Performance for Process Count: 32
+For message size: 2^0 	Recursive Doubling: 3.8401379474053845e-06		Binomial Tree Algorithm: 7.680275894810767e-06		Rabenseifner's Algorithm: 7.33176997492694e-06
+For message size: 2^1 	Recursive Doubling: 4.056265649658921e-06		Binomial Tree Algorithm: 8.11253129931784e-06		Rabenseifner's Algorithm: 7.415519459550186e-06
+For message size: 2^2 	Recursive Doubling: 4.488521054165994e-06		Binomial Tree Algorithm: 8.977042108331987e-06		Rabenseifner's Algorithm: 7.583018428796676e-06
+For message size: 2^3 	Recursive Doubling: 5.3530318631801405e-06		Binomial Tree Algorithm: 1.0706063726360281e-05		Rabenseifner's Algorithm: 7.918016367289659e-06
+For message size: 2^4 	Recursive Doubling: 7.082053481208434e-06		Binomial Tree Algorithm: 1.4164106962416868e-05		Rabenseifner's Algorithm: 8.588012244275623e-06
+For message size: 2^5 	Recursive Doubling: 1.0540096717265021e-05		Binomial Tree Algorithm: 2.1080193434530043e-05		Rabenseifner's Algorithm: 9.92800399824755e-06
+For message size: 2^6 	Recursive Doubling: 1.7456183189378194e-05		Binomial Tree Algorithm: 3.491236637875639e-05		Rabenseifner's Algorithm: 1.2607987506191405e-05
+For message size: 2^7 	Recursive Doubling: 3.128835613360454e-05		Binomial Tree Algorithm: 6.257671226720909e-05		Rabenseifner's Algorithm: 1.7967954522079113e-05
+For message size: 2^8 	Recursive Doubling: 5.8952702022057234e-05		Binomial Tree Algorithm: 0.00011790540404411447		Rabenseifner's Algorithm: 2.8687888553854533e-05
+For message size: 2^9 	Recursive Doubling: 0.00011428139379896262		Binomial Tree Algorithm: 0.00022856278759792524		Rabenseifner's Algorithm: 5.0127756617405376e-05
+For message size: 2^10 	Recursive Doubling: 0.0002249387773527734		Binomial Tree Algorithm: 0.0004498775547055468		Rabenseifner's Algorithm: 9.300749274450705e-05
+For message size: 2^11 	Recursive Doubling: 0.00010706736559139784		Binomial Tree Algorithm: 0.00021413473118279567		Rabenseifner's Algorithm: 0.00011173716666666664
+For message size: 2^12 	Recursive Doubling: 0.00017056973118279568		Binomial Tree Algorithm: 0.00034113946236559136		Rabenseifner's Algorithm: 0.00013634433333333331
+For message size: 2^13 	Recursive Doubling: 0.0002975744623655914		Binomial Tree Algorithm: 0.0005951489247311827		Rabenseifner's Algorithm: 0.00018555866666666664
+For message size: 2^14 	Recursive Doubling: 0.0005515839247311828		Binomial Tree Algorithm: 0.0011031678494623654		Rabenseifner's Algorithm: 0.0002839873333333333
+For message size: 2^15 	Recursive Doubling: 0.0010596028494623657		Binomial Tree Algorithm: 0.002119205698924731		Rabenseifner's Algorithm: 0.00048084466666666666
+For message size: 2^16 	Recursive Doubling: 0.002075640698924731		Binomial Tree Algorithm: 0.004151281397849462		Rabenseifner's Algorithm: 0.0008745593333333333
+For message size: 2^17 	Recursive Doubling: 0.0041077163978494625		Binomial Tree Algorithm: 0.008215432795698923		Rabenseifner's Algorithm: 0.0016619886666666666
+For message size: 2^18 	Recursive Doubling: 0.008171867795698924		Binomial Tree Algorithm: 0.01634373559139785		Rabenseifner's Algorithm: 0.0032368473333333333
+For message size: 2^19 	Recursive Doubling: 0.01630017059139785		Binomial Tree Algorithm: 0.03260034118279569		Rabenseifner's Algorithm: 0.006386564666666667
+For message size: 2^20 	Recursive Doubling: 0.0325567761827957		Binomial Tree Algorithm: 0.0651135523655914		Rabenseifner's Algorithm: 0.012685999333333333
+
+Performance for Process Count: 64
+For message size: 2^0 	Recursive Doubling: 4.867518779590705e-06		Binomial Tree Algorithm: 9.73503755918141e-06		Rabenseifner's Algorithm: 8.867825153889093e-06
+For message size: 2^1 	Recursive Doubling: 5.386225264999193e-06		Binomial Tree Algorithm: 1.0772450529998385e-05		Rabenseifner's Algorithm: 9.038025719413753e-06
+For message size: 2^2 	Recursive Doubling: 6.423638235816169e-06		Binomial Tree Algorithm: 1.2847276471632339e-05		Rabenseifner's Algorithm: 9.378426850463074e-06
+For message size: 2^3 	Recursive Doubling: 8.498464177450121e-06		Binomial Tree Algorithm: 1.6996928354900242e-05		Rabenseifner's Algorithm: 1.0059229112561715e-05
+For message size: 2^4 	Recursive Doubling: 1.2648116060718024e-05		Binomial Tree Algorithm: 2.529623212143605e-05		Rabenseifner's Algorithm: 1.1420833636758996e-05
+For message size: 2^5 	Recursive Doubling: 2.0947419827253834e-05		Binomial Tree Algorithm: 4.189483965450767e-05		Rabenseifner's Algorithm: 1.4144042685153557e-05
+For message size: 2^6 	Recursive Doubling: 3.754602736032545e-05		Binomial Tree Algorithm: 7.50920547206509e-05		Rabenseifner's Algorithm: 1.9590460781942682e-05
+For message size: 2^7 	Recursive Doubling: 7.074324242646868e-05		Binomial Tree Algorithm: 0.00014148648485293736		Rabenseifner's Algorithm: 3.048329697552093e-05
+For message size: 2^8 	Recursive Doubling: 0.00013713767255875515		Binomial Tree Algorithm: 0.0002742753451175103		Rabenseifner's Algorithm: 5.226896936267743e-05
+For message size: 2^9 	Recursive Doubling: 0.0002699265328233281		Binomial Tree Algorithm: 0.0005398530656466562		Rabenseifner's Algorithm: 9.584031413699042e-05
+For message size: 2^10 	Recursive Doubling: 0.000535504253352474		Binomial Tree Algorithm: 0.001071008506704948		Rabenseifner's Algorithm: 0.0001829830036856164
+For message size: 2^11 	Recursive Doubling: 0.00020468367741935481		Binomial Tree Algorithm: 0.00040936735483870963		Rabenseifner's Algorithm: 0.00015456411290322577
+For message size: 2^12 	Recursive Doubling: 0.0003570893548387096		Binomial Tree Algorithm: 0.0007141787096774194		Rabenseifner's Algorithm: 0.00020457222580645159
+For message size: 2^13 	Recursive Doubling: 0.0006619007096774194		Binomial Tree Algorithm: 0.0013238014193548387		Rabenseifner's Algorithm: 0.00030458845161290317
+For message size: 2^14 	Recursive Doubling: 0.0012715234193548387		Binomial Tree Algorithm: 0.0025430468387096774		Rabenseifner's Algorithm: 0.0005046209032258064
+For message size: 2^15 	Recursive Doubling: 0.002490768838709677		Binomial Tree Algorithm: 0.004981537677419354		Rabenseifner's Algorithm: 0.0009046858064516129
+For message size: 2^16 	Recursive Doubling: 0.004929259677419355		Binomial Tree Algorithm: 0.00985851935483871		Rabenseifner's Algorithm: 0.0017048156129032257
+For message size: 2^17 	Recursive Doubling: 0.00980624135483871		Binomial Tree Algorithm: 0.019612482709677418		Rabenseifner's Algorithm: 0.0033050752258064514
+For message size: 2^18 	Recursive Doubling: 0.01956020470967742		Binomial Tree Algorithm: 0.03912040941935484		Rabenseifner's Algorithm: 0.006505594451612902
+For message size: 2^19 	Recursive Doubling: 0.039068131419354835		Binomial Tree Algorithm: 0.07813626283870968		Rabenseifner's Algorithm: 0.012906632903225806
+For message size: 2^20 	Recursive Doubling: 0.07808398483870968		Binomial Tree Algorithm: 0.15616796967741936		Rabenseifner's Algorithm: 0.02570870980645161
