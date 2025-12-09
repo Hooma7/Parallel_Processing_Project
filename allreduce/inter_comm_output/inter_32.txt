@@ -1,0 +1,16 @@
+Message size: 2^5		Recursive Doubling Time: 6.379060E-04		Binomial Tree Time: 1.747265E-03		Rabenseifner's Time: 9.618000E-06
+Message size: 2^6		Recursive Doubling Time: 2.096100E-05		Binomial Tree Time: 3.750900E-05		Rabenseifner's Time: 1.725000E-05
+Message size: 2^7		Recursive Doubling Time: 1.839400E-05		Binomial Tree Time: 3.295700E-05		Rabenseifner's Time: 1.685100E-05
+Message size: 2^8		Recursive Doubling Time: 2.885600E-05		Binomial Tree Time: 1.383930E-04		Rabenseifner's Time: 2.922800E-05
+Message size: 2^9		Recursive Doubling Time: 4.021200E-05		Binomial Tree Time: 1.123080E-04		Rabenseifner's Time: 3.996500E-05
+Message size: 2^10		Recursive Doubling Time: 5.987100E-05		Binomial Tree Time: 3.989010E-04		Rabenseifner's Time: 4.721500E-05
+Message size: 2^11		Recursive Doubling Time: 1.026230E-04		Binomial Tree Time: 1.403240E-04		Rabenseifner's Time: 5.658300E-05
+Message size: 2^12		Recursive Doubling Time: 1.758300E-04		Binomial Tree Time: 2.041170E-04		Rabenseifner's Time: 9.347500E-05
+Message size: 2^13		Recursive Doubling Time: 3.902790E-04		Binomial Tree Time: 3.782420E-04		Rabenseifner's Time: 1.447100E-04
+Message size: 2^14		Recursive Doubling Time: 7.620000E-04		Binomial Tree Time: 6.712030E-04		Rabenseifner's Time: 2.431240E-04
+Message size: 2^15		Recursive Doubling Time: 1.040413E-03		Binomial Tree Time: 8.109880E-04		Rabenseifner's Time: 3.968180E-04
+Message size: 2^16		Recursive Doubling Time: 2.243896E-03		Binomial Tree Time: 1.477145E-03		Rabenseifner's Time: 8.313970E-04
+Message size: 2^17		Recursive Doubling Time: 4.153376E-03		Binomial Tree Time: 3.008491E-03		Rabenseifner's Time: 1.377226E-03
+Message size: 2^18		Recursive Doubling Time: 7.953448E-03		Binomial Tree Time: 6.009529E-03		Rabenseifner's Time: 3.708009E-03
+Message size: 2^19		Recursive Doubling Time: 1.547707E-02		Binomial Tree Time: 1.251995E-02		Rabenseifner's Time: 6.283484E-03
+Message size: 2^20		Recursive Doubling Time: 3.149100E-02		Binomial Tree Time: 2.645382E-02		Rabenseifner's Time: 1.176192E-02

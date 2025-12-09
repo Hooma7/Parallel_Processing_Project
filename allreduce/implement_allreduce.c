@@ -103,8 +103,8 @@ void rabenseifner(double* sendbuf, double* recvbuf, int size){
     int recv_offset = 0;
     int sendSize = size;
     for(int i=0; i<num_iters; i++){
-        int distance = 2 << (num_iters-1-i);
-        int partner_proc = (rank+distance) % num_procs;
+        int distance = 1 << (num_iters-1-i);
+        int partner_proc = rank ^ distance;
 
         sendSize = sendSize/2;
         int send_offset, keep_offset;
@@ -130,15 +130,7 @@ void rabenseifner(double* sendbuf, double* recvbuf, int size){
     int send_offset = recv_offset;
 
     for(int i=0; i<num_iters; i++){
-        int group = rank / distance;
-        int partner_proc;
-        
-        if(group % 2 == 0){
-            partner_proc = rank + distance;
-        }
-        else{
-            partner_proc = rank - distance;
-        }
+        int partner_proc = rank ^ distance;
 
         int partner_offset;
         if(rank < partner_proc){

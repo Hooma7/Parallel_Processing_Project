@@ -1,0 +1,15 @@
+Message size: 2^6		Recursive Doubling Time: 2.109330E-04		Binomial Tree Time: 5.548700E-05		Rabenseifner's Time: 9.156900E-05
+Message size: 2^7		Recursive Doubling Time: 2.856500E-05		Binomial Tree Time: 5.377000E-05		Rabenseifner's Time: 3.781600E-05
+Message size: 2^8		Recursive Doubling Time: 4.604700E-05		Binomial Tree Time: 6.480400E-05		Rabenseifner's Time: 2.948800E-05
+Message size: 2^9		Recursive Doubling Time: 6.153400E-05		Binomial Tree Time: 7.536300E-05		Rabenseifner's Time: 3.996000E-05
+Message size: 2^10		Recursive Doubling Time: 8.795100E-05		Binomial Tree Time: 4.571460E-04		Rabenseifner's Time: 1.289040E-04
+Message size: 2^11		Recursive Doubling Time: 2.739160E-04		Binomial Tree Time: 1.521590E-04		Rabenseifner's Time: 7.720400E-05
+Message size: 2^12		Recursive Doubling Time: 2.517590E-04		Binomial Tree Time: 2.515430E-04		Rabenseifner's Time: 1.048420E-04
+Message size: 2^13		Recursive Doubling Time: 5.174870E-04		Binomial Tree Time: 4.534940E-04		Rabenseifner's Time: 1.866960E-04
+Message size: 2^14		Recursive Doubling Time: 9.768840E-04		Binomial Tree Time: 9.428860E-04		Rabenseifner's Time: 2.799570E-04
+Message size: 2^15		Recursive Doubling Time: 3.110230E-03		Binomial Tree Time: 1.975219E-03		Rabenseifner's Time: 6.224730E-04
+Message size: 2^16		Recursive Doubling Time: 2.417448E-03		Binomial Tree Time: 2.206564E-03		Rabenseifner's Time: 7.550030E-04
+Message size: 2^17		Recursive Doubling Time: 1.017640E-02		Binomial Tree Time: 4.338357E-03		Rabenseifner's Time: 1.576103E-03
+Message size: 2^18		Recursive Doubling Time: 1.031639E-02		Binomial Tree Time: 1.017387E-02		Rabenseifner's Time: 2.947973E-03
+Message size: 2^19		Recursive Doubling Time: 2.641601E-02		Binomial Tree Time: 2.012311E-02		Rabenseifner's Time: 6.756260E-03
+Message size: 2^20		Recursive Doubling Time: 5.667069E-02		Binomial Tree Time: 4.407452E-02		Rabenseifner's Time: 1.373570E-02

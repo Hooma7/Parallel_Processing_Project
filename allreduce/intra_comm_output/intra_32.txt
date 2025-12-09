@@ -1,0 +1,16 @@
+Message size: 2^5		Recursive Doubling Time: 9.660100E-05		Binomial Tree Time: 2.588100E-05		Rabenseifner's Time: 5.545700E-05
+Message size: 2^6		Recursive Doubling Time: 5.162400E-05		Binomial Tree Time: 1.868500E-05		Rabenseifner's Time: 1.923600E-05
+Message size: 2^7		Recursive Doubling Time: 1.959900E-05		Binomial Tree Time: 4.069100E-05		Rabenseifner's Time: 3.821400E-05
+Message size: 2^8		Recursive Doubling Time: 3.912700E-05		Binomial Tree Time: 3.094600E-05		Rabenseifner's Time: 2.916900E-05
+Message size: 2^9		Recursive Doubling Time: 5.288100E-05		Binomial Tree Time: 6.611700E-05		Rabenseifner's Time: 4.297400E-05
+Message size: 2^10		Recursive Doubling Time: 1.086170E-04		Binomial Tree Time: 4.341620E-04		Rabenseifner's Time: 5.565700E-05
+Message size: 2^11		Recursive Doubling Time: 1.868810E-04		Binomial Tree Time: 1.318680E-04		Rabenseifner's Time: 9.802100E-05
+Message size: 2^12		Recursive Doubling Time: 2.235330E-04		Binomial Tree Time: 1.997330E-04		Rabenseifner's Time: 1.465370E-04
+Message size: 2^13		Recursive Doubling Time: 6.881510E-04		Binomial Tree Time: 4.535820E-04		Rabenseifner's Time: 3.070120E-04
+Message size: 2^14		Recursive Doubling Time: 8.675710E-04		Binomial Tree Time: 1.294059E-03		Rabenseifner's Time: 2.882780E-04
+Message size: 2^15		Recursive Doubling Time: 1.315375E-03		Binomial Tree Time: 9.248430E-04		Rabenseifner's Time: 4.544740E-04
+Message size: 2^16		Recursive Doubling Time: 3.208405E-03		Binomial Tree Time: 2.016056E-03		Rabenseifner's Time: 7.132950E-04
+Message size: 2^17		Recursive Doubling Time: 6.525110E-03		Binomial Tree Time: 4.107889E-03		Rabenseifner's Time: 1.326743E-03
+Message size: 2^18		Recursive Doubling Time: 1.088747E-02		Binomial Tree Time: 8.603519E-03		Rabenseifner's Time: 2.793123E-03
+Message size: 2^19		Recursive Doubling Time: 2.000368E-02		Binomial Tree Time: 1.656475E-02		Rabenseifner's Time: 6.017097E-03
+Message size: 2^20		Recursive Doubling Time: 4.167303E-02		Binomial Tree Time: 3.471916E-02		Rabenseifner's Time: 1.292569E-02
