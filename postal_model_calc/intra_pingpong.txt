@@ -1,0 +1,18 @@
+To request GPUs, add --gpus-per-node X or --gpus X, where X is the desired number of GPUs.
+Job 165994 running on easley[049-050]
+i: 0,	 Size: 1, 	Cost of message: 0.000000362 seconds
+i: 1,	 Size: 2, 	Cost of message: 0.000000346 seconds
+i: 2,	 Size: 4, 	Cost of message: 0.000000445 seconds
+i: 3,	 Size: 8, 	Cost of message: 0.000000368 seconds
+i: 4,	 Size: 16, 	Cost of message: 0.000001060 seconds
+i: 5,	 Size: 32, 	Cost of message: 0.000000844 seconds
+i: 6,	 Size: 64, 	Cost of message: 0.000001111 seconds
+i: 7,	 Size: 128, 	Cost of message: 0.000001386 seconds
+i: 8,	 Size: 256, 	Cost of message: 0.000001783 seconds
+i: 9,	 Size: 512, 	Cost of message: 0.000002528 seconds
+i: 10,	 Size: 1024, 	Cost of message: 0.000002869 seconds
+i: 11,	 Size: 2048, 	Cost of message: 0.000004423 seconds
+i: 12,	 Size: 4096, 	Cost of message: 0.000007206 seconds
+i: 13,	 Size: 8192, 	Cost of message: 0.000012167 seconds
+i: 14,	 Size: 16384, 	Cost of message: 0.000021183 seconds
+i: 15,	 Size: 32768, 	Cost of message: 0.000009738 seconds
